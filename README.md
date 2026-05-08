@@ -53,10 +53,10 @@ CQeval/
 pip install -r requirements.txt
 ```
 
-Set your Anthropic API key (required for all `annotate_*.py` and `generate_*.py` scripts):
+Set your API key (required for all `annotate_*.py` and `generate_*.py` scripts):
 
 ```bash
-export ANTHROPIC_API_KEY=your-key-here
+export paikey=your-key-here
 ```
 
 All scripts use paths relative to the repository root via `BASE_DIR = pathlib.Path(__file__).parent`. No manual path configuration is needed as long as you run the scripts from within the cloned repository.
