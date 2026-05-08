@@ -1,0 +1,798 @@
+superfluous_element,frequency,deviation_type
+ontology,169,Expansion
+relationships,15,Implicit Assumption
+specific,14,Specification
+interoperability,10,Expansion
+properties,9,Specification
+tune family,7,Specification
+source,7,Expansion
+mechanisms,7,Expansion
+user preferences,7,Implicit Assumption
+when,6,Expansion
+preferences,6,Analytical Enrichment
+best practices,6,Expansion
+scalability,6,Expansion
+performance metrics,6,Analytical Enrichment
+lifecycle,6,Expansion
+integrate,6,Expansion
+roles,5,Analytical Enrichment
+processes,5,Expansion
+director,5,Expansion
+built,4,Expansion
+cast,4,Expansion
+relationship,4,Implicit Assumption
+complex queries,4,Analytical Enrichment
+interoperability requirements,4,Expansion
+usability features,4,Expansion
+updated,4,Expansion
+maintained,4,Expansion
+duration,4,Analytical Enrichment
+criteria,4,Analytical Enrichment
+genre,4,Specification
+associated with,4,Analytical Enrichment
+release year,4,Expansion
+location,4,Expansion
+differences,3,Analytical Enrichment
+context,3,Implicit Assumption
+support,3,Expansion
+provenance,3,Analytical Enrichment
+participants,3,Implicit Assumption
+building,3,Specification
+church,3,Specification
+network,3,Specification
+instrument realization,3,Expansion
+integrated,3,Expansion
+feedback,3,Expansion
+user profiles,3,Analytical Enrichment
+educational programs,3,Expansion
+technical specifications,3,Analytical Enrichment
+metadata,3,Specification
+standards,3,Expansion
+maintained and updated,3,Expansion
+composers,3,Implicit Assumption
+security measures,3,Expansion
+decision-making,3,Analytical Enrichment
+non-technical users,3,Expansion
+features,3,Expansion
+documentation,3,Expansion
+sources,3,Expansion
+particular,3,Specification
+discrepancies,3,Analytical Enrichment
+details,3,Specification
+events,3,Specification
+event category,3,Specification
+preferred,3,Analytical Enrichment
+time,3,Specification
+decision-making processes,3,Expansion
+lifecycle stages,3,Expansion
+recommended,3,Analytical Enrichment
+temporal aspects,3,Analytical Enrichment
+developers,3,Expansion
+sparql queries,3,Expansion
+weather conditions,3,Expansion
+genres,3,Specification
+subclasses,3,Expansion
+locations,3,Expansion
+environmental impact,3,Analytical Enrichment
+stakeholders,3,Implicit Assumption
+reused,3,Specification
+main,2,Analytical Enrichment
+how many,2,Analytical Enrichment
+measures,2,Analytical Enrichment
+invented,2,Expansion
+where,2,Expansion
+who,2,Implicit Assumption
+performance,2,Expansion
+transducer,2,Expansion
+efficient querying,2,Analytical Enrichment
+reasoning,2,Analytical Enrichment
+frequency range,2,Analytical Enrichment
+vibration intensity,2,Analytical Enrichment
+ethical considerations,2,Analytical Enrichment
+late-onset hearing loss,2,Specification
+drum kit training,2,Expansion
+technical mappings,2,Analytical Enrichment
+interoperability features,2,Expansion
+modeling,2,Analytical Enrichment
+linked,2,Expansion
+integrating,2,Expansion
+style,2,Specification
+visualize,2,Expansion
+structure,2,Specification
+compatibility,2,Expansion
+modeled,2,Analytical Enrichment
+characteristics,2,Specification
+supported,2,Expansion
+categorized,2,Expansion
+identify,2,Expansion
+notable,2,Analytical Enrichment
+new,2,Expansion
+users,2,Expansion
+queried,2,Expansion
+reliability,2,Analytical Enrichment
+prefer,2,Analytical Enrichment
+chemical composition,2,Specification
+personalized,2,Analytical Enrichment
+attributes,2,Analytical Enrichment
+attribute values,2,Specification
+triggers,2,Expansion
+regulations,2,Expansion
+extended,2,Expansion
+user-friendly,2,Expansion
+insights,2,Analytical Enrichment
+exchanged,2,Expansion
+guidelines,2,Expansion
+showtimes,2,Specification
+systems,2,Expansion
+standards and best practices,2,Expansion
+tasks,2,Expansion
+contextual information,2,Expansion
+individual,2,Implicit Assumption
+smart home systems,2,Expansion
+ensure,2,Expansion
+requirements,2,Expansion
+alerts,2,Expansion
+personal preferences,2,Analytical Enrichment
+link,2,Expansion
+snow,2,Expansion
+directors,2,Expansion
+sunny,2,Expansion
+"linked to ""rain""",2,Expansion
+windy,2,Expansion
+not linked,2,Implicit Assumption
+queries,2,Expansion
+health,2,Expansion
+data standards,2,Expansion
+specific materials,2,Specification
+environmental impacts,2,Expansion
+sustainability metrics,2,Analytical Enrichment
+optimized,2,Analytical Enrichment
+scalability features,2,Analytical Enrichment
+description,2,Expansion
+types,2,Specification
+constraints,2,Expansion
+recycling,2,Expansion
+waste manager,2,Specification
+lifecycle stage,2,Analytical Enrichment
+economic benefits,2,Analytical Enrichment
+reuse,2,Expansion
+target audience,2,Expansion
+films,2,Specification
+specific participant,2,Implicit Assumption
+week,2,Expansion
+1 (renovated),1,Expansion
+places,1,Specification
+coming from?,1,Specification
+disposition,1,Specification
+point in time,1,Specification
+level of confidence,1,Analytical Enrichment
+similarities,1,Analytical Enrichment
+measure,1,Analytical Enrichment
+similarity measure,1,Analytical Enrichment
+perform,1,Expansion
+performer,1,Implicit Assumption
+why,1,Expansion
+nature,1,Analytical Enrichment
+celebration,1,Expansion
+festival,1,Expansion
+private event,1,Expansion
+religious,1,Expansion
+secular,1,Expansion
+paid,1,Expansion
+attendees,1,Implicit Assumption
+happened to be there,1,Expansion
+travel,1,Expansion
+reach,1,Expansion
+place,1,Expansion
+invited,1,Expansion
+accidental,1,Expansion
+relation,1,Implicit Assumption
+power relation,1,Expansion
+patreon,1,Expansion
+located,1,Specification
+urban,1,Specification
+periurban,1,Specification
+poliorganic,1,Specification
+foundry,1,Expansion
+material,1,Expansion
+weight,1,Expansion
+extension,1,Analytical Enrichment
+gender inclusivity,1,Analytical Enrichment
+musicians,1,Implicit Assumption
+working at the same time,1,Implicit Assumption
+patrons,1,Implicit Assumption
+enhanced,1,Analytical Enrichment
+physical realization,1,Expansion
+parts of,1,Expansion
+subject,1,Implicit Assumption
+credibility,1,Analytical Enrichment
+goal,1,Expansion
+type,1,Specification
+context of production,1,Expansion
+context of usage,1,Analytical Enrichment
+cross-referenced,1,Analytical Enrichment
+1 (biography),1,Expansion
+geographical location,1,Specification
+historical period,1,Specification
+geographical region,1,Specification
+visualized,1,Analytical Enrichment
+most,1,Analytical Enrichment
+mapped geographically,1,Specification
+significant,1,Analytical Enrichment
+efficiently,1,Analytical Enrichment
+interoperability standards,1,Expansion
+metrics,1,Expansion
+"0
+
+all key content words from the cq appear in the scenario:
+- ""types"" (implied through listing different devices)
+- ""haptic"" (appears multiple times)
+- ""devices"" (haptic bracelets",1,Specification
+"electronic drum kit)
+- ""available"" (appears multiple times: ""offered",1,Specification
+""" ""available"")
+- ""live",1,Specification
+"0
+
+all key content words from the cq appear in the scenario:
+- ""functionalities"" (implied through descriptions of what devices do)
+- ""haptic"" (appears multiple times)
+- ""devices"" (haptic bracelets",1,Analytical Enrichment
+"electronic drum kit)
+- ""music"" (concert",1,Specification
+bass part,1,Specification
+"drums)
+-",1,Specification
+"0
+
+all key content words from the cq appear in the scenario:
+- ""user preferences"" → preferences implied through anna's interest in bass player",1,Implicit Assumption
+"ben's interest in drums
+- ""specific instruments"" → ""bass",1,Specification
+""" ""drums"" explicitly mentioned
+- ""represented"" → not a domain-specific word requiring presence
+- ""ontology"" → while not explicitly stated",1,Specification
+"0
+
+all key content words from the cq appear in the scenario:
+- ""components"" (implied through discussion of parts)
+- ""musical performance"" (explicitly: ""concert",1,Expansion
+""" ""performance"")
+- ""instruments"" (explicitly: ""bass player",1,Specification
+""" ""drums",1,Specification
+""" ""drum kit"")
+- ""roles"" (explicitly: ""bass part",1,Specification
+""" ""drums played by",1,Specification
+"""",1,Specification
+"0
+
+all key content words from the cq appear in the scenario:
+- ""users"" (anna",1,Specification
+ben,1,Implicit Assumption
+"caroline)
+- ""interact"" (use",1,Specification
+opted for,1,Expansion
+swap feeds,1,Expansion
+grab hand,1,Expansion
+"put on wrist)
+- ""haptic"" (haptic bracelets",1,Specification
+haptic transcription,1,Expansion
+haptic feed,1,Specification
+"haptic devices)
+- """,1,Specification
+"0
+
+all key content words from the cq appear in the scenario:
+- ""venue"" - appears multiple times (e.g.",1,Expansion
+"""the stables music venue"")
+- ""offerings"" - implied by ""offering a live automatic haptic transcription"" and ""available""
+- ""available"" - explicitly stated multiple times
+- ""hearing-impaired"" -",1,Specification
+"0
+
+all key content words from the cq appear in the scenario:
+- ""workshops"" → appears in ""summer workshop""
+- ""educational"" → implied by ""workshop"" context",1,Expansion
+"and ""learning"" concepts are present
+- ""opportunities"" → implied by ""workshop being run""
+- ""music"" → appears multiple times
+- ""haptic"" → appears multiple",1,Expansion
+captured,1,Expansion
+guided,1,Expansion
+interaction scenarios,1,Expansion
+sharing user experiences,1,Expansion
+scalability considerations,1,Analytical Enrichment
+accommodating new devices,1,Expansion
+performance requirements,1,Analytical Enrichment
+compatible,1,Analytical Enrichment
+congenital,1,Specification
+mapped,1,Analytical Enrichment
+technical relationships,1,Analytical Enrichment
+target audiences,1,Expansion
+equipment requirements,1,Expansion
+relationships between events,1,Expansion
+compatibility features,1,Expansion
+anonymizing user data,1,Expansion
+modeling user profiles,1,Expansion
+event-specific configurations,1,Expansion
+facilitating,1,Expansion
+drum transcription bracelet,1,Specification
+compatibility with music ontology,1,Expansion
+haptic technology ontology,1,Expansion
+scalability requirements,1,Expansion
+congenital hearing loss,1,Specification
+educational activities,1,Expansion
+compatibility with audio feeds,1,Expansion
+user roles,1,Implicit Assumption
+social interactions,1,Expansion
+facilitating event accessibility,1,Analytical Enrichment
+event configurations,1,Expansion
+throughout history,1,Expansion
+contextually,1,Analytical Enrichment
+semantically annotated,1,Analytical Enrichment
+sonic characteristics,1,Expansion
+existing music databases and ontologies,1,Expansion
+data exchange formats,1,Expansion
+17th century,1,Specification
+18th century,1,Specification
+historical events,1,Expansion
+19th century,1,Specification
+amsterdam,1,Specification
+rotterdam,1,Specification
+baroque period,1,Specification
+social factors,1,Expansion
+northern and southern regions,1,Specification
+introduction of new materials,1,Expansion
+key trends,1,Specification
+20th century,1,Specification
+most significant,1,Analytical Enrichment
+renaissance,1,Specification
+major,1,Analytical Enrichment
+cultural heritage ontologies,1,Expansion
+limited technical expertise,1,Expansion
+"i cannot complete this task as requested. the cq provided is not an actual competency question but rather a meta-comment stating that ""the actual list of 100 cqs would be generated by systematically addressing all entities",1,Expansion
+"and use cases outlined in the ontology requirements...""
+
+this is not a concrete cq to analyze against the scenario. to properly annotate superfl",1,Expansion
+metadata details,1,Specification
+influenced or been influenced by,1,Implicit Assumption
+corresponding,1,Implicit Assumption
+historical contexts,1,Analytical Enrichment
+sparql,1,Expansion
+temporal patterns,1,Analytical Enrichment
+influences,1,Analytical Enrichment
+most frequently occurring,1,Analytical Enrichment
+key factors,1,Analytical Enrichment
+integrated database,1,Expansion
+repertoires that include both dutch folk tunes and pieces from other musical traditions,1,Specification
+comparative studies,1,Analytical Enrichment
+interactions,1,Expansion
+correlate,1,Analytical Enrichment
+specific period,1,Specification
+geographical locations,1,Specification
+complex query criteria,1,Expansion
+data integrity,1,Expansion
+access control,1,Expansion
+demographic information,1,Expansion
+formally recognized,1,Analytical Enrichment
+cultural significance,1,Analytical Enrichment
+recognized,1,Analytical Enrichment
+educational uses,1,Expansion
+visualization tools,1,Expansion
+interact with,1,Expansion
+reasoning over large datasets,1,Expansion
+formalization,1,Expansion
+medical practices,1,Expansion
+intersection,1,Analytical Enrichment
+medical practitioners,1,Expansion
+access restrictions,1,Expansion
+visualizing,1,Expansion
+multilingual capabilities,1,Expansion
+latin,1,Expansion
+accurately,1,Analytical Enrichment
+database structures,1,Expansion
+documentation and tutorials,1,Expansion
+versions,1,Specification
+active,1,Specification
+practices,1,Specification
+compared to,1,Expansion
+reinterpretations,1,Expansion
+feature,1,Specification
+classified,1,Specification
+existing,1,Expansion
+ontologies,1,Expansion
+assist,1,Expansion
+understanding,1,Expansion
+utilizing,1,Expansion
+effectively,1,Analytical Enrichment
+efficient,1,Analytical Enrichment
+querying,1,Analytical Enrichment
+retrieval,1,Expansion
+i notice that no specific cq (competency question) has been provided in your prompt. you've included the scenario and instructions,1,Expansion
+"but the actual cq text that i should analyze is missing.
+
+could you please provide the specific cq you'd like me to annotate for superfluous elements?",1,Expansion
+tuning,1,Specification
+specific source,1,Implicit Assumption
+different sources,1,Implicit Assumption
+historical context,1,Expansion
+changes over time,1,Specification
+assess,1,Analytical Enrichment
+annotations,1,Analytical Enrichment
+changed over time,1,Analytical Enrichment
+documented,1,Specification
+resolved,1,Expansion
+highlighted,1,Specification
+structural events,1,Expansion
+contexts,1,Specification
+relevant,1,Implicit Assumption
+retrieved,1,Expansion
+common,1,Analytical Enrichment
+found,1,Expansion
+find,1,Specification
+project,1,Specification
+organ restoration projects,1,Specification
+key indicators,1,Analytical Enrichment
+organ components,1,Specification
+i appreciate your message,1,Expansion
+but i notice that you haven't provided an actual cq (competency question) to annotate. your message contains the scenario and instructions,1,Expansion
+"but the cq itself is missing or marked as a placeholder.
+
+please provide the specific cq you'd like me to annotate",1,Expansion
+"and i'll identify any superfluous elements following the rules:
+
+1. check",1,Expansion
+cvn:s,1,Specification
+used in,1,Implicit Assumption
+key components,1,Analytical Enrichment
+composition,1,Specification
+time period,1,Specification
+most suitable event,1,Analytical Enrichment
+propose,1,Expansion
+calendar,1,Specification
+hold,1,Implicit Assumption
+indoor location,1,Specification
+sensor data,1,Expansion
+typically associated,1,Analytical Enrichment
+likely,1,Analytical Enrichment
+system run,1,Implicit Assumption
+system action,1,Implicit Assumption
+live,1,Implicit Assumption
+morning routine,1,Expansion
+preferred movie categories,1,Specification
+certain situation,1,Specification
+preference,1,Analytical Enrichment
+favorite,1,Implicit Assumption
+previously,1,Implicit Assumption
+certain event,1,Implicit Assumption
+now,1,Implicit Assumption
+decision,1,Expansion
+specific event,1,Specification
+default value,1,Analytical Enrichment
+user,1,Implicit Assumption
+location's,1,Specification
+specific responsibilities,1,Analytical Enrichment
+end time,1,Expansion
+hosting,1,Implicit Assumption
+bookings,1,Specification
+structured,1,Analytical Enrichment
+devices,1,Expansion
+device,1,Expansion
+functionality,1,Specification
+user's context,1,Analytical Enrichment
+represented,1,Expansion
+accommodate changes,1,Expansion
+extensions or refinements,1,Analytical Enrichment
+resources,1,Expansion
+materials,1,Expansion
+dependencies,1,Analytical Enrichment
+product or material,1,Expansion
+sustainability practices,1,Expansion
+potential bottlenecks or inefficiencies,1,Analytical Enrichment
+compliance with relevant standards and best practices,1,Expansion
+key metrics,1,Analytical Enrichment
+suppliers,1,Implicit Assumption
+outputs,1,Specification
+regulatory requirements,1,Expansion
+mitigation strategies,1,Expansion
+usage,1,Specification
+optimized for efficiency,1,Analytical Enrichment
+efficiency,1,Analytical Enrichment
+interoperable,1,Analytical Enrichment
+hierarchical structure,1,Analytical Enrichment
+supplier,1,Implicit Assumption
+manufacturing process,1,Expansion
+regulatory standards,1,Expansion
+compliance,1,Analytical Enrichment
+quality control measures,1,Expansion
+tensile strength,1,Analytical Enrichment
+density,1,Analytical Enrichment
+supply chain transparency,1,Expansion
+role,1,Implicit Assumption
+necessary,1,Analytical Enrichment
+related to each other,1,Implicit Assumption
+steps,1,Specification
+assigned,1,Implicit Assumption
+potential scenarios,1,Expansion
+outcomes,1,Expansion
+shared vocabulary,1,Expansion
+decision-making pathways,1,Analytical Enrichment
+product lifecycle management,1,Expansion
+sustainability implications,1,Analytical Enrichment
+comply,1,Expansion
+semantic web technologies,1,Expansion
+sustainable practices,1,Expansion
+software developers,1,Expansion
+system integrators,1,Expansion
+favorite movie genres,1,Implicit Assumption
+watched in the past,1,Implicit Assumption
+user's location,1,Implicit Assumption
+weather,1,Expansion
+local cinemas,1,Specification
+local cinema,1,Specification
+rating,1,Expansion
+current date,1,Expansion
+external weather data sources,1,Expansion
+top-rated,1,Analytical Enrichment
+user data,1,Expansion
+large number of users,1,Expansion
+integration,1,Expansion
+classifications,1,Analytical Enrichment
+querying and data retrieval,1,Analytical Enrichment
+sustainable production process,1,Expansion
+definitions,1,Analytical Enrichment
+levels,1,Analytical Enrichment
+hierarchically structured,1,Analytical Enrichment
+gaps,1,Analytical Enrichment
+training programs,1,Expansion
+human resources,1,Expansion
+knowledge-sharing opportunities,1,Expansion
+interoperability with existing hr and training systems,1,Expansion
+activities related to personal hygiene,1,Expansion
+objects,1,Specification
+commonly associated,1,Analytical Enrichment
+toothpaste,1,Expansion
+influence activity recognition,1,Analytical Enrichment
+typical frequency,1,Analytical Enrichment
+reminders,1,Expansion
+environmental conditions,1,Expansion
+multiple personal hygiene activities simultaneously,1,Expansion
+encouraging healthy hygiene habits,1,Analytical Enrichment
+potential interactions,1,Analytical Enrichment
+bathroom appliances,1,Specification
+additional personal hygiene activities,1,Expansion
+health monitoring systems,1,Expansion
+real-time activity recognition and reasoning,1,Analytical Enrichment
+key elements,1,Expansion
+ontology's usability,1,Expansion
+researchers,1,Expansion
+scalable,1,Analytical Enrichment
+humidity level,1,Expansion
+wind speed,1,Specification
+smart home devices,1,Expansion
+customized,1,Specification
+celsius or fahrenheit,1,Specification
+different languages,1,Expansion
+stored and retrieved,1,Analytical Enrichment
+protocols,1,Expansion
+accommodate additional weather data types,1,Expansion
+ensured,1,Analytical Enrichment
+communication between different smart home devices,1,Expansion
+parameters,1,Specification
+modeled in the ontology,1,Expansion
+specific locations,1,Expansion
+time periods,1,Specification
+units,1,Specification
+alert thresholds,1,Expansion
+occursat property,1,Expansion
+during property,1,Specification
+units of measurement,1,Expansion
+display format (text,1,Specification
+icons),1,Specification
+external ontologies,1,Expansion
+retrieve current weather data,1,Expansion
+user-defined alert thresholds,1,Expansion
+consistency,1,Analytical Enrichment
+ontology's data modeling,1,Expansion
+uv index,1,Expansion
+preferredunit,1,Analytical Enrichment
+districts or landmarks,1,Specification
+currently,1,Specification
+current weather conditions,1,Expansion
+optimal times,1,Analytical Enrichment
+weather forecasts,1,Expansion
+generate movie recommendations,1,Expansion
+patterns,1,Analytical Enrichment
+integrate with external weather databases,1,Expansion
+external movie databases,1,Expansion
+support reasoning,1,Expansion
+future weather forecasts,1,Expansion
+adding,1,Expansion
+data,1,Expansion
+updated with new data and requirements,1,Expansion
+classes,1,Expansion
+the dark knight,1,Expansion
+linked to,1,Implicit Assumption
+rain,1,Expansion
+hierarchical relationships,1,Expansion
+weatherconditions,1,Expansion
+data properties,1,Expansion
+object properties,1,Analytical Enrichment
+connect a user to their preferred genres,1,Implicit Assumption
+released after 2010,1,Expansion
+movies,1,Specification
+drama,1,Expansion
+comedy,1,Expansion
+not linked to any weather condition,1,Expansion
+after 2015,1,Expansion
+filmed,1,Expansion
+humid,1,Expansion
+"not in the ""action"" genre",1,Expansion
+2020,1,Expansion
+cold,1,Expansion
+user preference,1,Implicit Assumption
+any,1,Expansion
+horror,1,Expansion
+thunderstorm,1,Expansion
+"""hot"" weather",1,Expansion
+sci-fi,1,Expansion
+released after 2018,1,Expansion
+foggy,1,Expansion
+"not in the ""drama"" genre",1,Specification
+adventure,1,Expansion
+release year before 2000,1,Expansion
+cloudy weather,1,Expansion
+"linked to both ""rain"" and ""action"" genre",1,Expansion
+link a user to their preferred movie genres,1,Implicit Assumption
+user preference for weather conditions,1,Implicit Assumption
+thriller,1,Expansion
+released after 2020,1,Expansion
+fantasy,1,Expansion
+release year between 2010 and 2020,1,Expansion
+misty,1,Expansion
+represented in the ontology,1,Expansion
+routines,1,Expansion
+health and smart home ontologies,1,Expansion
+routine detection and analysis,1,Analytical Enrichment
+update the ontology,1,Expansion
+new activities or temporal definitions,1,Expansion
+health applications,1,Expansion
+use,1,Expansion
+track,1,Expansion
+provide feedback,1,Expansion
+research,1,Expansion
+behavioral studies,1,Expansion
+other ontologies,1,Expansion
+smart home,1,Expansion
+domains,1,Expansion
+factors,1,Specification
+different,1,Specification
+specific material,1,Specification
+technologies,1,Expansion
+recycling standards,1,Expansion
+new materials,1,Expansion
+existing recycling framework,1,Expansion
+security considerations,1,Expansion
+proprietary recycling data,1,Expansion
+common challenges,1,Analytical Enrichment
+waste management companies,1,Expansion
+manufacturers,1,Implicit Assumption
+key performance indicators,1,Analytical Enrichment
+automated decision-making,1,Expansion
+data integration,1,Expansion
+framework,1,Expansion
+attributes and characteristics,1,Analytical Enrichment
+standardized terminology,1,Expansion
+international conservation bodies,1,Expansion
+title,1,Specification
+date,1,Specification
+specific ticket type,1,Specification
+given movie event,1,Specification
+seating arrangements,1,Specification
+categories,1,Specification
+payment methods,1,Expansion
+query,1,Expansion
+vip ticket types,1,Expansion
+processing,1,Analytical Enrichment
+transaction,1,Specification
+personalized movie event recommendations,1,Expansion
+end-users,1,Expansion
+automated reasoning,1,Analytical Enrichment
+list of competency questions (cqs),1,Expansion
+rules govern,1,Expansion
+adapt,1,Expansion
+benchmarked against industry standards,1,Analytical Enrichment
+tools,1,Expansion
+applications,1,Expansion
+humidity levels,1,Expansion
+specific parameter,1,Specification
+given day,1,Specification
+historical,1,Expansion
+trends,1,Analytical Enrichment
+additional weather data sources,1,Expansion
+accuracy level,1,Analytical Enrichment
+user-friendly interface,1,Expansion
+key actors,1,Analytical Enrichment
+responsibilities,1,Analytical Enrichment
+sourced,1,Expansion
+used,1,Specification
+recycled,1,Expansion
+disposed of,1,Expansion
+principles,1,Expansion
+resource efficiency,1,Analytical Enrichment
+recycling and reuse,1,Expansion
+waste reduction,1,Analytical Enrichment
+sustainability assessment criteria,1,Analytical Enrichment
+compliance requirements,1,Expansion
+sustainability,1,Expansion
+construction industry,1,Specification
+specific role,1,Specification
+environmental properties,1,Analytical Enrichment
+technical properties,1,Analytical Enrichment
+steel melting,1,Specification
+value metrics,1,Analytical Enrichment
+specific flow,1,Specification
+sustainability standards,1,Expansion
+integrate with existing ontologies,1,Expansion
+carbon footprint,1,Analytical Enrichment
+specific region,1,Specification
+managing waste,1,Expansion
+production,1,Expansion
+recycle,1,Expansion
+required,1,Analytical Enrichment
+energy consumption,1,Analytical Enrichment
+compliance with circular economy standards,1,Expansion
+material reuse coordinator,1,Expansion
+economic,1,Analytical Enrichment
+environmental benefits,1,Analytical Enrichment
+recycler,1,Specification
+recycling process,1,Expansion
+key properties,1,Analytical Enrichment
+alignment with industry standards,1,Expansion
+recycled material,1,Specification
+alignment with bim and ifc standards,1,Expansion
+facilities,1,Expansion
+address,1,Expansion
+age restrictions,1,Expansion
+purchased,1,Expansion
+pricing options,1,Analytical Enrichment
+tickets available,1,Expansion
+other films,1,Expansion
+screening times,1,Specification
+cinemas,1,Specification
+this week,1,Expansion
+long,1,Expansion
+contact details,1,Expansion
+upcoming screening events,1,Specification
+cast members,1,Expansion
+competency questions,1,Expansion
+specific date,1,Specification
+specific day,1,Specification
+scheduling conflicts,1,Expansion
+two events,1,Implicit Assumption
+meetings,1,Expansion
+particular event,1,Specification
+start,1,Specification
+end times,1,Expansion
+specific location,1,Expansion
+free afternoons,1,Specification
+specific month,1,Specification
+personal scheduling information,1,Expansion
+external calendar system,1,Expansion
+specific time period,1,Specification
+new event,1,Expansion
+conflicts,1,Analytical Enrichment
+total amount,1,Analytical Enrichment
+upcoming,1,Specification
+event types,1,Expansion
+sensors,1,Expansion
+user location,1,Implicit Assumption
+integrate with external weather data providers,1,Expansion
+customize,1,Expansion
+user commands,1,Expansion
+real-time processing,1,Analytical Enrichment
+protect user data,1,Expansion
+secure communication between devices,1,Expansion
+accessibility,1,Analytical Enrichment
+privacy considerations,1,Expansion
+integrated with other smart home systems and devices,1,Expansion

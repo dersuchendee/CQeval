@@ -1,0 +1,9 @@
+group,llm_type,measure,n_scenarios,median,Q1,Q3,IQR,min,max
+Gold,human,A,33,0.0,0.0,0.0,0.0,0.0,0.5
+Gold,human,B,33,0.0,0.0,0.0,0.0,0.0,0.5
+NeoNGPT_GPT4o,closed,A,33,0.2,0.1,0.25,0.15,0.0,0.875
+NeoNGPT_GPT4o,closed,B,33,0.2,0.1,0.3,0.2,0.0,1.062
+NeoNGPT_Qwen3,open,A,9,0.08,0.0,0.16,0.16,0.0,1.0
+NeoNGPT_Qwen3,open,B,9,0.08,0.0,0.16,0.16,0.0,3.0
+OntoChat,closed,A,33,0.0,0.0,0.2,0.2,0.0,0.6
+OntoChat,closed,B,33,0.0,0.0,0.2,0.2,0.0,0.8

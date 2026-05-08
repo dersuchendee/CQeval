@@ -1,0 +1,5 @@
+group,total_cqs,distinct_scenarios,mean_cqs_per_scenario,median_cqs_per_scenario,max_cqs_per_scenario,n_framing_bias,prop_framing_bias,n_with_eval_terms,prop_with_eval_terms,n_with_struct_assumption,prop_with_struct_assumption,mean_eval_count,mean_struct_count,cooc_fb_eval,cooc_fb_struct,cooc_eval_struct,n_with_superfl,prop_with_superfl,total_superfl_count,mean_superfl_count,strict_inconsistency_rate,weighted_inconsistency_mean
+all,131,13,10.0769,10.0,19,44,0.3359,8,0.0611,38,0.2901,0.0687,0.4427,6,35,1,63,0.4809,115,0.8779,0.4809,0.4733
+gold,67,13,5.1538,5.0,14,35,0.5224,1,0.0149,34,0.5075,0.0149,0.791,0,31,0,58,0.8657,110,1.6418,0.8657,0.8507
+generated,64,13,4.9231,5.0,5,9,0.1406,7,0.1094,4,0.0625,0.125,0.0781,6,4,1,5,0.0781,5,0.0781,0.0781,0.0781
+OntoChat,64,13,4.9231,5.0,5,9,0.1406,7,0.1094,4,0.0625,0.125,0.0781,6,4,1,5,0.0781,5,0.0781,0.0781,0.0781

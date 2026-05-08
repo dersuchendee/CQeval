@@ -1,0 +1,3 @@
+group,macro_mean_fb_rate,macro_mean_strict_inconsistency_rate,macro_mean_weighted_inconsistency,macro_mean_propagated_rate
+generated,0.1423,0.0808,0.0808,0.045
+gold,0.4244,0.8352,0.7912,0.0

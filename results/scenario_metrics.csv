@@ -1,0 +1,2 @@
+total_scenarios,n_framing_bias,prop_framing_bias,n_with_eval_terms,prop_with_eval_terms,n_with_structural_assumption,prop_with_structural_assumption,total_eval_count,total_struct_count,mean_eval_per_scenario,mean_struct_per_scenario,mean_eval_framing_biased_only,mean_struct_framing_biased_only
+11,5,0.4545,4,0.3636,1,0.0909,11,3,1.0,0.2727,2.2,0.6

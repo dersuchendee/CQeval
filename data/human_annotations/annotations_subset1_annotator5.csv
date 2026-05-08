@@ -1,0 +1,57 @@
+Table 1,,,,,,,
+dataset,group,scenario,cq Competency Questions (CQs) are natural language questions outlining and constraining the scope of knowledge represented in an ontology. ,source_deviation,justified_in_scenario,framing,notes
+,,,General note: Annotate only when clearly present; avoid over-interpretation,Elements in the CQ not present in the scenario,"(For each element listed in source_deviation): Justified in the scenario? Yes = can be reasonably inferred from the scenario / 
+No = not supported by the scenario","Evaluative or non-neutral terms in the CQ, such as: 1) crucial 2) fundamental 3) ordinarily",
+Example 1 - Anna,,Anna wants to study how traditional dances have evolved over time and how they are performed in different regions.,CQ1: How ethnic traditional dances have evolved over the years?,"Yes (ethnic, years)",ethnic: No / years: Yes (over time),Yes (ethnic),
+Example 2 - Anna,,Anna wants to study how traditional dances have evolved over time and how they are performed in different regions.,CQ2: What are the names of the dances?,Yes (names),names: No,No,
+Example 3 - Marco,,Marco wants to analyse how musical repertoires evolved over time and how they are related across different regions and traditions.,CQ3: Which repertoires are generally associated with different regions?,No,No,Yes (generally),
+CVN,Gold,A circular value network has some process which outlines work done by different actors in this network,What CVN:s are this process used in?,No,,2,
+Polifonia,Gold,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",Where was an instrument realization built?,No,,2,
+WHOW,NeoNGPT_GPT4o,"Sage, a water resource manager with a background in environmental science, is tasked with overseeing the sustainability and conservation efforts of water basins in her region. Her responsibilities include not only maintaining current water quality and usage standards but also planning for future water needs and conservation efforts. Sage needs detailed information on various water basins, including which water bodies belong to a specific basin, the sub-water basins contained within them, the classification of different types of water bodies, especially coastal ones, and a comprehensive list of all water body types for planning and reporting purposes.
+
+Moreover, having a list of all types of water bodies available at her disposal enables Sage to communicate effectively with local stakeholders, government entities, and international conservation bodies, providing reports, data analysis, and strategic planning documents that are based on comprehensive and accurate water body classifications.",How can data from various sources be integrated and shared using the ontology?,Yes,No,4,Is it a CQ?
+WHOW,NeoNGPT_GPT4o,"Sage, a water resource manager with a background in environmental science, is tasked with overseeing the sustainability and conservation efforts of water basins in her region. Her responsibilities include not only maintaining current water quality and usage standards but also planning for future water needs and conservation efforts. Sage needs detailed information on various water basins, including which water bodies belong to a specific basin, the sub-water basins contained within them, the classification of different types of water bodies, especially coastal ones, and a comprehensive list of all water body types for planning and reporting purposes.
+
+Moreover, having a list of all types of water bodies available at her disposal enables Sage to communicate effectively with local stakeholders, government entities, and international conservation bodies, providing reports, data analysis, and strategic planning documents that are based on comprehensive and accurate water body classifications.",How can the ontology be extended to include new types of water bodies or attributes?,,,,Is it a CQ?
+IntelligentBathrooms,NeoNGPT_Qwen3,"The system asks me if I want to order tickets to a proposed event if there are tickets available. I am presented with a set of ticket options, and get to select the time of the show, the seat I want at the movie theatre. Finally, I pay by credit card.","**List of Competency Questions (CQs):** 
+CQ1",,,,Is it a CQ?
+CVN,NeoNGPT_Qwen3,"There are several actors involved in a construction use case/circular value flow, each holding some roles in a certain material flow.","How does the ontology model the alignment with industry standards (e.g., EN 15804)?",Yes (industry standard),No,4,Is it a CQ?
+IntelligentBathrooms,NeoNGPT_GPT4o,I was brushing my teeth in the bathroom on Thursday morning. Morning is between 6 and 10am according to the current user.,How can user profiles and their associated routines be represented in the ontology?,Yes,,,Is it a CQ?
+Polifonia,Gold,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+Het Historische Orgel in Nederland – Dutch organ encyclopedia
+http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+Church and city archives
+Old newspapers
+https://www.delpher.nl – digital database from the Dutch Royal Library
+Organs (sight visits)
+http://www.dtbob.org/ – Belgian digital organ database",Which is the context of usage of a source?,No,,,It is necessary disambiguation of word source and context. Context =fact and source=enciclopedia?
+IntelligentBathrooms,NeoNGPT_GPT4o,"When I am standing in front of the mirror brushing my teeth the weather is displayed as graphics on the mirror, but when I walk around the bathroom it is read out through the loudspeakers.",How does the ontology support real-time processing of user location and weather data?,,,,Is it a CQ?
+Polifonia,Gold,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+Het Historische Orgel in Nederland – Dutch organ encyclopedia
+http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+Church and city archives
+Old newspapers
+https://www.delpher.nl – digital database from the Dutch Royal Library
+Organs (sight visits)
+http://www.dtbob.org/ – Belgian digital organ database",Which is the goal of a source?,,,,
+CVN,NeoNGPT_GPT4o,"Actors collaborate to achieve the value proposition of the circular value network. Each actor is responsible for one or more pieces of work (in a step) and holds one or more competencies to do that work. Also, actors might or might not hold the necessary infrastructure and resources to perform the work. Each actor is of a certain type, and has a role in the network.",What shared vocabulary does the ontology provide for stakeholders in circular value networks?,,,,Is it a CQ?
+IntelligentBathrooms,Gold,"There is a sneak preview of an action film called ""X-men"" today at 8pm at CinemaOne.",What are the attributes of this event category (e.g. a movie has a genre and a set of actors)?,Yes (actors),No,3,
+Polifonia,OntoChat,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases",How can Mark automatically query a range of databases to aid his work?,No,,4,Is it a CQ?
+WHOW,OntoChat,"Sage, a water resource manager with a background in environmental science, is tasked with overseeing the sustainability and conservation efforts of water basins in her region. Her responsibilities include not only maintaining current water quality and usage standards but also planning for future water needs and conservation efforts. Sage needs detailed information on various water basins, including which water bodies belong to a specific basin, the sub-water basins contained within them, the classification of different types of water bodies, especially coastal ones, and a comprehensive list of all water body types for planning and reporting purposes.
+
+Moreover, having a list of all types of water bodies available at her disposal enables Sage to communicate effectively with local stakeholders, government entities, and international conservation bodies, providing reports, data analysis, and strategic planning documents that are based on comprehensive and accurate water body classifications.",What are the water bodies belonging to a specific basin?,No,,1,
+CVN,NeoNGPT_Qwen3,"There are several actors involved in a construction use case/circular value flow, each holding some roles in a certain material flow.","What are the economic and environmental benefits of recycling a specific material (e.g., ""steel"")?","Yes (economic), Yes (environmental) ",No,3,

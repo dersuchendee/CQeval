@@ -1,0 +1,109 @@
+scenario,dataset,group,llm_type,n_valid,A,A_flag,B,B_flag,valuation_rate,judgment_rate,composition_rate
+Amy wants to assess the developments of organ builders. This,Polifonia,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+Amy wants to assess the developments of organ builders. This,Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,Polifonia,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+David is interested in understanding the social history of m,Polifonia,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+David is interested in understanding the social history of m,Polifonia,OntoChat,closed,5,0.6,ABOVE,0.6,ABOVE,0.0,0.4,0.0
+"For her next research project, Amy wants to discover artisti",Polifonia,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+"For her next research project, Amy wants to discover artisti",Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Mark is interested in understanding how Dutch folk tunes rel,Polifonia,Gold,human,7,0.0,ok,0.0,ok,0.0,0.0,0.0
+Mark is interested in understanding how Dutch folk tunes rel,Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Ortenz would like to have a system for visualising events (m,Polifonia,Gold,human,14,0.0,ok,0.0,ok,0.0,0.0,0.0
+Ortenz would like to have a system for visualising events (m,Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Patrizia is a Demo-Ethno-anthropologist Officer of the Minis,Polifonia,Gold,human,11,0.0,ok,0.0,ok,0.0,0.0,0.0
+Patrizia is a Demo-Ethno-anthropologist Officer of the Minis,Polifonia,OntoChat,closed,4,0.25,ABOVE,0.5,ABOVE,0.5,0.0,0.0
+Sophia is a musicologist and a practising musician. Sophia i,Polifonia,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+Sophia is a musicologist and a practising musician. Sophia i,Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Sophia’s original qualifications, and her Ph.D., were in mus",Polifonia,Gold,human,7,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Sophia’s original qualifications, and her Ph.D., were in mus",Polifonia,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Successfully plan the restoration of an organ.. In this scen,Polifonia,Gold,human,6,0.167,ABOVE,0.167,ABOVE,0.167,0.0,0.0
+Successfully plan the restoration of an organ.. In this scen,Polifonia,OntoChat,closed,5,0.6,ABOVE,0.8,ABOVE,0.6,0.0,0.0
+Amy wants to assess the developments of organ builders. This,Polifonia,NeoNGPT_GPT4o,closed,25,0.24,ok,0.24,ok,0.24,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,Polifonia,NeoNGPT_GPT4o,closed,20,0.1,ok,0.1,ok,0.1,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,Polifonia,NeoNGPT_Qwen3,open,50,0.1,ok,0.12,ok,0.12,0.0,0.0
+David is interested in understanding the social history of m,Polifonia,NeoNGPT_GPT4o,closed,16,0.875,ABOVE,1.062,ABOVE,0.188,0.812,0.0
+"For her next research project, Amy wants to discover artisti",Polifonia,NeoNGPT_GPT4o,closed,20,0.2,ok,0.2,ok,0.2,0.0,0.0
+"For her next research project, Amy wants to discover artisti",Polifonia,NeoNGPT_Qwen3,open,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+Mark is interested in understanding how Dutch folk tunes rel,Polifonia,NeoNGPT_GPT4o,closed,20,0.1,ok,0.1,ok,0.1,0.0,0.0
+Ortenz would like to have a system for visualising events (m,Polifonia,NeoNGPT_GPT4o,closed,18,0.111,ok,0.167,ok,0.167,0.0,0.0
+Patrizia is a Demo-Ethno-anthropologist Officer of the Minis,Polifonia,NeoNGPT_GPT4o,closed,20,0.25,ok,0.3,ok,0.3,0.0,0.0
+Sophia is a musicologist and a practising musician. Sophia i,Polifonia,NeoNGPT_GPT4o,closed,20,0.2,ok,0.2,ok,0.2,0.0,0.0
+"Sophia’s original qualifications, and her Ph.D., were in mus",Polifonia,NeoNGPT_GPT4o,closed,15,0.733,ABOVE,0.733,ABOVE,0.267,0.0,0.467
+"Sophia’s original qualifications, and her Ph.D., were in mus",Polifonia,NeoNGPT_Qwen3,open,1,1.0,ABOVE,3.0,ABOVE,1.0,0.0,0.0
+Successfully plan the restoration of an organ.. In this scen,Polifonia,NeoNGPT_GPT4o,closed,20,0.6,ABOVE,0.7,ABOVE,0.3,0.0,0.4
+Successfully plan the restoration of an organ.. In this scen,Polifonia,NeoNGPT_Qwen3,open,3,0.333,ABOVE,0.333,ABOVE,0.0,0.0,0.0
+A circular value network consists of one or many actors that,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+A circular value network consists of one or many actors that,IB_WHOW_CVN,OntoChat,closed,5,0.2,ok,0.2,ok,0.2,0.0,0.0
+A circular value network has some process which outlines wor,IB_WHOW_CVN,Gold,human,3,0.0,ok,0.0,ok,0.0,0.0,0.0
+A circular value network has some process which outlines wor,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+A manufacturer of a product needs to understand the composit,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+A manufacturer of a product needs to understand the composit,IB_WHOW_CVN,OntoChat,closed,5,0.4,ABOVE,0.4,ABOVE,0.4,0.0,0.0
+"A product is made up of components, which in turn are made u",IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+"A product is made up of components, which in turn are made u",IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Actors collaborate to achieve the value proposition of the c,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+Actors collaborate to achieve the value proposition of the c,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+An inventory consists of products (materials) and their quan,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+An inventory consists of products (materials) and their quan,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Based on the fact that I have the evening off, that it is go",IB_WHOW_CVN,Gold,human,2,0.5,ABOVE,0.5,ABOVE,0.5,0.0,0.0
+"Based on the fact that I have the evening off, that it is go",IB_WHOW_CVN,OntoChat,closed,5,0.6,ABOVE,0.6,ABOVE,0.6,0.0,0.0
+Each circular value network has certain inputs that drive th,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+Each circular value network has certain inputs that drive th,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+For each piece of work an actor does for a certain part of a,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+For each piece of work an actor does for a certain part of a,IB_WHOW_CVN,OntoChat,closed,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+I am alone in the bathroom. I am standing facing the mirror ,IB_WHOW_CVN,Gold,human,3,0.0,ok,0.0,ok,0.0,0.0,0.0
+I am alone in the bathroom. I am standing facing the mirror ,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+I am living in Berlin and I like to get the local weather di,IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+I am living in Berlin and I like to get the local weather di,IB_WHOW_CVN,OntoChat,closed,5,0.2,ok,0.2,ok,0.2,0.0,0.0
+"I like going to the movies when it is raining, and I especia",IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+"I like going to the movies when it is raining, and I especia",IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+I was brushing my teeth in the bathroom on Thursday morning.,IB_WHOW_CVN,Gold,human,3,0.0,ok,0.0,ok,0.0,0.0,0.0
+I was brushing my teeth in the bathroom on Thursday morning.,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+Recycling of a product may depend on its material compositio,IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+Recycling of a product may depend on its material compositio,IB_WHOW_CVN,OntoChat,closed,5,0.4,ABOVE,0.4,ABOVE,0.6,0.0,0.0
+Resources are what is worked on in the circular value networ,IB_WHOW_CVN,Gold,human,3,0.0,ok,0.0,ok,0.0,0.0,0.0
+Resources are what is worked on in the circular value networ,IB_WHOW_CVN,OntoChat,closed,5,0.2,ok,0.2,ok,0.2,0.0,0.0
+"Sage, a water resource manager with a background in environm",IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Sage, a water resource manager with a background in environm",IB_WHOW_CVN,OntoChat,closed,5,0.2,ok,0.2,ok,0.2,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+The value proposition that a circular value network holds is,IB_WHOW_CVN,Gold,human,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+The value proposition that a circular value network holds is,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+"There are many different weather services available online, ",IB_WHOW_CVN,Gold,human,3,0.0,ok,0.0,ok,0.0,0.0,0.0
+"There are many different weather services available online, ",IB_WHOW_CVN,OntoChat,closed,5,0.6,ABOVE,0.6,ABOVE,0.6,0.0,0.0
+There are several actors involved in a construction use case,IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+There are several actors involved in a construction use case,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",IB_WHOW_CVN,Gold,human,3,0.0,ok,0.0,ok,0.0,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Today my calendar contains a meeting at noon, but then I hav",IB_WHOW_CVN,Gold,human,2,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Today my calendar contains a meeting at noon, but then I hav",IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+When I am standing in front of the mirror brushing my teeth ,IB_WHOW_CVN,Gold,human,4,0.25,ABOVE,0.25,ABOVE,0.25,0.0,0.0
+When I am standing in front of the mirror brushing my teeth ,IB_WHOW_CVN,OntoChat,closed,5,0.0,ok,0.0,ok,0.0,0.0,0.0
+A circular value network consists of one or many actors that,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.1,ok,0.1,ok,0.1,0.0,0.0
+A circular value network has some process which outlines wor,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.45,ABOVE,0.5,ABOVE,0.5,0.0,0.0
+A manufacturer of a product needs to understand the composit,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.25,ok,0.25,ok,0.3,0.05,0.0
+"A product is made up of components, which in turn are made u",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.15,ok,0.15,ok,0.15,0.0,0.0
+Actors collaborate to achieve the value proposition of the c,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,15,0.133,ok,0.2,ok,0.133,0.0,0.0
+An inventory consists of products (materials) and their quan,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.3,ABOVE,0.3,ok,0.3,0.0,0.0
+"Based on the fact that I have the evening off, that it is go",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.1,ok,0.1,ok,0.1,0.0,0.0
+Each circular value network has certain inputs that drive th,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.2,ok,0.2,ok,0.25,0.0,0.0
+For each piece of work an actor does for a certain part of a,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,17,0.294,ABOVE,0.353,ABOVE,0.353,0.0,0.0
+I am alone in the bathroom. I am standing facing the mirror ,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.1,ok,0.1,ok,0.2,0.0,0.0
+I am living in Berlin and I like to get the local weather di,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.1,ok,0.1,ok,0.1,0.0,0.0
+I am living in Berlin and I like to get the local weather di,IB_WHOW_CVN,NeoNGPT_Qwen3,open,20,0.0,ok,0.0,ok,0.0,0.0,0.0
+"I like going to the movies when it is raining, and I especia",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.15,ok,0.15,ok,0.15,0.0,0.0
+"I like going to the movies when it is raining, and I especia",IB_WHOW_CVN,NeoNGPT_Qwen3,open,50,0.08,ok,0.08,ok,0.08,0.0,0.0
+I was brushing my teeth in the bathroom on Thursday morning.,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,15,0.0,BELOW,0.0,BELOW,0.0,0.0,0.0
+Recycling of a product may depend on its material compositio,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,25,0.4,ABOVE,0.48,ABOVE,0.48,0.0,0.0
+Resources are what is worked on in the circular value networ,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.15,ok,0.15,ok,0.15,0.0,0.0
+"Sage, a water resource manager with a background in environm",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.25,ok,0.3,ok,0.3,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.15,ok,0.15,ok,0.15,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,IB_WHOW_CVN,NeoNGPT_Qwen3,open,4,0.0,ok,0.0,ok,0.0,0.0,0.0
+The value proposition that a circular value network holds is,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.25,ok,0.3,ok,0.3,0.0,0.0
+"There are many different weather services available online, ",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.2,ok,0.2,ok,0.2,0.0,0.0
+There are several actors involved in a construction use case,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.25,ok,0.3,ok,0.3,0.0,0.0
+There are several actors involved in a construction use case,IB_WHOW_CVN,NeoNGPT_Qwen3,open,50,0.16,ok,0.16,ok,0.16,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.05,BELOW,0.05,BELOW,0.05,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",IB_WHOW_CVN,NeoNGPT_Qwen3,open,1,0.0,ok,0.0,ok,0.0,0.0,0.0
+"Today my calendar contains a meeting at noon, but then I hav",IB_WHOW_CVN,NeoNGPT_GPT4o,closed,20,0.0,BELOW,0.0,BELOW,0.0,0.0,0.0
+When I am standing in front of the mirror brushing my teeth ,IB_WHOW_CVN,NeoNGPT_GPT4o,closed,15,0.067,BELOW,0.067,BELOW,0.133,0.0,0.0

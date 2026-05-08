@@ -1,0 +1,98 @@
+term,frequency,group
+they,4,all
+building,3,all
+church,3,all
+x,3,all
+she,2,all
+context,2,all
+another location,2,all
+level of confidence,1,all
+differences,1,all
+4: similarities,1,all
+musician=performer,1,all
+nature,1,all
+celebration,1,all
+private event,1,all
+festival,1,all
+religious,1,all
+secular,1,all
+paid,1,all
+support,1,all
+happened to be there,1,all
+attendees,1,all
+provenance,1,all
+they who? not specified,1,all
+relation,1,all
+we,1,all
+participants,1,all
+power relation,1,all
+patreon,1,all
+main,1,all
+when,1,all
+built,1,all
+urban,1,all
+located,1,all
+periurban,1,all
+how many,1,all
+poliorganic,1,all
+non so se c'entra con l'elettrificazione,1,all
+formalized,1,all
+recognized,1,all
+identity=heritage,1,all
+adult,1,all
+time relationship,1,all
+network,1,all
+enhanced,1,all
+intro of goal,1,all
+introduced organization in collections,1,all
+they,4,gold
+building,3,gold
+church,3,gold
+x,3,gold
+she,2,gold
+context,2,gold
+another location,2,gold
+level of confidence,1,gold
+differences,1,gold
+4: similarities,1,gold
+musician=performer,1,gold
+nature,1,gold
+celebration,1,gold
+private event,1,gold
+festival,1,gold
+religious,1,gold
+secular,1,gold
+paid,1,gold
+support,1,gold
+happened to be there,1,gold
+attendees,1,gold
+provenance,1,gold
+they who? not specified,1,gold
+relation,1,gold
+we,1,gold
+participants,1,gold
+power relation,1,gold
+patreon,1,gold
+when,1,gold
+built,1,gold
+urban,1,gold
+located,1,gold
+periurban,1,gold
+how many,1,gold
+poliorganic,1,gold
+non so se c'entra con l'elettrificazione,1,gold
+identity=heritage,1,gold
+adult,1,gold
+time relationship,1,gold
+network,1,gold
+intro of goal,1,gold
+main,1,generated
+formalized,1,generated
+recognized,1,generated
+enhanced,1,generated
+introduced organization in collections,1,generated
+main,1,OntoChat
+formalized,1,OntoChat
+recognized,1,OntoChat
+enhanced,1,OntoChat
+introduced organization in collections,1,OntoChat

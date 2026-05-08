@@ -1,0 +1,17 @@
+group,deviation_type,n,total,pct,rate_per_cq,n_cqs
+Gold,Expansion,50,136,36.8,0.505,99
+Gold,Specification,43,136,31.6,0.434,99
+Gold,Implicit Assumption,22,136,16.2,0.222,99
+Gold,Analytical Enrichment,21,136,15.4,0.212,99
+OntoChat,Analytical Enrichment,12,24,50.0,0.075,160
+OntoChat,Expansion,8,24,33.3,0.05,160
+OntoChat,Implicit Assumption,3,24,12.5,0.019,160
+OntoChat,Specification,1,24,4.2,0.006,160
+NeoNGPT_GPT4o,Expansion,516,836,61.7,0.805,641
+NeoNGPT_GPT4o,Analytical Enrichment,149,836,17.8,0.232,641
+NeoNGPT_GPT4o,Specification,133,836,15.9,0.207,641
+NeoNGPT_GPT4o,Implicit Assumption,38,836,4.5,0.059,641
+NeoNGPT_Qwen3,Expansion,138,245,56.3,0.767,180
+NeoNGPT_Qwen3,Analytical Enrichment,45,245,18.4,0.25,180
+NeoNGPT_Qwen3,Specification,37,245,15.1,0.206,180
+NeoNGPT_Qwen3,Implicit Assumption,25,245,10.2,0.139,180

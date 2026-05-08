@@ -1,0 +1,11 @@
+group,category,n_mentions,n_cqs,total_mentions,pct_of_group_mentions,rate_per_cq
+Gold,Appreciation > valuation,3,99,3,100.0,0.03
+OntoChat,Appreciation > reaction,1,160,23,4.3,0.006
+OntoChat,Appreciation > valuation,20,160,23,87.0,0.125
+OntoChat,Judgment > normality,2,160,23,8.7,0.013
+NeoNGPT_GPT4o,Appreciation > composition,15,641,166,9.0,0.023
+NeoNGPT_GPT4o,Appreciation > reaction,3,641,166,1.8,0.005
+NeoNGPT_GPT4o,Appreciation > valuation,134,641,166,80.7,0.209
+NeoNGPT_GPT4o,Judgment > normality,14,641,166,8.4,0.022
+NeoNGPT_Qwen3,Appreciation > valuation,19,180,22,86.4,0.106
+NeoNGPT_Qwen3,Unknown > unknown,3,180,22,13.6,0.017

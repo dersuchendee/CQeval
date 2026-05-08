@@ -1,0 +1,24 @@
+term,frequency,group
+non-elite,2,all
+relevant,1,all
+formalized,1,all
+recognized,1,all
+credibility,1,all
+illogical,1,all
+unreliable or untrue,1,all
+accuracy,1,all
+credibility,1,gold
+non-elite,2,generated
+relevant,1,generated
+formalized,1,generated
+recognized,1,generated
+illogical,1,generated
+unreliable or untrue,1,generated
+accuracy,1,generated
+non-elite,2,OntoChat
+relevant,1,OntoChat
+formalized,1,OntoChat
+recognized,1,OntoChat
+illogical,1,OntoChat
+unreliable or untrue,1,OntoChat
+accuracy,1,OntoChat

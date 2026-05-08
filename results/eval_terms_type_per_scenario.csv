@@ -1,0 +1,109 @@
+scenario,group,n_cqs,valuation_rate,judgment_rate,composition_rate
+A circular value network consists of one or many actors that,Gold,1,0.0,0.0,0.0
+A circular value network consists of one or many actors that,NeoNGPT_GPT4o,20,0.1,0.0,0.0
+A circular value network consists of one or many actors that,OntoChat,5,0.2,0.0,0.0
+A circular value network has some process which outlines wor,Gold,3,0.0,0.0,0.0
+A circular value network has some process which outlines wor,NeoNGPT_GPT4o,20,0.5,0.0,0.0
+A circular value network has some process which outlines wor,OntoChat,5,0.0,0.0,0.0
+A manufacturer of a product needs to understand the composit,Gold,1,0.0,0.0,0.0
+A manufacturer of a product needs to understand the composit,NeoNGPT_GPT4o,20,0.3,0.05,0.0
+A manufacturer of a product needs to understand the composit,OntoChat,5,0.4,0.0,0.0
+"A product is made up of components, which in turn are made u",Gold,1,0.0,0.0,0.0
+"A product is made up of components, which in turn are made u",NeoNGPT_GPT4o,20,0.15,0.0,0.0
+"A product is made up of components, which in turn are made u",OntoChat,5,0.0,0.0,0.0
+Actors collaborate to achieve the value proposition of the c,Gold,1,0.0,0.0,0.0
+Actors collaborate to achieve the value proposition of the c,NeoNGPT_GPT4o,15,0.133,0.0,0.0
+Actors collaborate to achieve the value proposition of the c,OntoChat,5,0.0,0.0,0.0
+Amy wants to assess the developments of organ builders. This,Gold,1,0.0,0.0,0.0
+Amy wants to assess the developments of organ builders. This,NeoNGPT_GPT4o,25,0.24,0.0,0.0
+Amy wants to assess the developments of organ builders. This,OntoChat,5,0.0,0.0,0.0
+An inventory consists of products (materials) and their quan,Gold,1,0.0,0.0,0.0
+An inventory consists of products (materials) and their quan,NeoNGPT_GPT4o,20,0.3,0.0,0.0
+An inventory consists of products (materials) and their quan,OntoChat,5,0.0,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,Gold,2,0.0,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,NeoNGPT_GPT4o,20,0.1,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,NeoNGPT_Qwen3,50,0.12,0.0,0.0
+Anna wants to experience live music with the aid of haptic t,OntoChat,5,0.0,0.0,0.0
+"Based on the fact that I have the evening off, that it is go",Gold,2,0.5,0.0,0.0
+"Based on the fact that I have the evening off, that it is go",NeoNGPT_GPT4o,20,0.1,0.0,0.0
+"Based on the fact that I have the evening off, that it is go",OntoChat,5,0.6,0.0,0.0
+David is interested in understanding the social history of m,Gold,2,0.0,0.0,0.0
+David is interested in understanding the social history of m,NeoNGPT_GPT4o,16,0.188,0.812,0.0
+David is interested in understanding the social history of m,OntoChat,5,0.0,0.4,0.0
+Each circular value network has certain inputs that drive th,Gold,1,0.0,0.0,0.0
+Each circular value network has certain inputs that drive th,NeoNGPT_GPT4o,20,0.25,0.0,0.0
+Each circular value network has certain inputs that drive th,OntoChat,5,0.0,0.0,0.0
+For each piece of work an actor does for a certain part of a,Gold,1,0.0,0.0,0.0
+For each piece of work an actor does for a certain part of a,NeoNGPT_GPT4o,17,0.353,0.0,0.0
+For each piece of work an actor does for a certain part of a,OntoChat,1,0.0,0.0,0.0
+"For her next research project, Amy wants to discover artisti",Gold,1,0.0,0.0,0.0
+"For her next research project, Amy wants to discover artisti",NeoNGPT_GPT4o,20,0.2,0.0,0.0
+"For her next research project, Amy wants to discover artisti",NeoNGPT_Qwen3,1,0.0,0.0,0.0
+"For her next research project, Amy wants to discover artisti",OntoChat,5,0.0,0.0,0.0
+I am alone in the bathroom. I am standing facing the mirror ,Gold,3,0.0,0.0,0.0
+I am alone in the bathroom. I am standing facing the mirror ,NeoNGPT_GPT4o,20,0.2,0.0,0.0
+I am alone in the bathroom. I am standing facing the mirror ,OntoChat,5,0.0,0.0,0.0
+I am living in Berlin and I like to get the local weather di,Gold,2,0.0,0.0,0.0
+I am living in Berlin and I like to get the local weather di,NeoNGPT_GPT4o,20,0.1,0.0,0.0
+I am living in Berlin and I like to get the local weather di,NeoNGPT_Qwen3,20,0.0,0.0,0.0
+I am living in Berlin and I like to get the local weather di,OntoChat,5,0.2,0.0,0.0
+"I like going to the movies when it is raining, and I especia",Gold,2,0.0,0.0,0.0
+"I like going to the movies when it is raining, and I especia",NeoNGPT_GPT4o,20,0.15,0.0,0.0
+"I like going to the movies when it is raining, and I especia",NeoNGPT_Qwen3,50,0.08,0.0,0.0
+"I like going to the movies when it is raining, and I especia",OntoChat,5,0.0,0.0,0.0
+I was brushing my teeth in the bathroom on Thursday morning.,Gold,3,0.0,0.0,0.0
+I was brushing my teeth in the bathroom on Thursday morning.,NeoNGPT_GPT4o,15,0.0,0.0,0.0
+I was brushing my teeth in the bathroom on Thursday morning.,OntoChat,5,0.0,0.0,0.0
+Mark is interested in understanding how Dutch folk tunes rel,Gold,7,0.0,0.0,0.0
+Mark is interested in understanding how Dutch folk tunes rel,NeoNGPT_GPT4o,20,0.1,0.0,0.0
+Mark is interested in understanding how Dutch folk tunes rel,OntoChat,5,0.0,0.0,0.0
+Ortenz would like to have a system for visualising events (m,Gold,14,0.0,0.0,0.0
+Ortenz would like to have a system for visualising events (m,NeoNGPT_GPT4o,18,0.167,0.0,0.0
+Ortenz would like to have a system for visualising events (m,OntoChat,5,0.0,0.0,0.0
+Patrizia is a Demo-Ethno-anthropologist Officer of the Minis,Gold,11,0.0,0.0,0.0
+Patrizia is a Demo-Ethno-anthropologist Officer of the Minis,NeoNGPT_GPT4o,20,0.3,0.0,0.0
+Patrizia is a Demo-Ethno-anthropologist Officer of the Minis,OntoChat,4,0.5,0.0,0.0
+Recycling of a product may depend on its material compositio,Gold,2,0.0,0.0,0.0
+Recycling of a product may depend on its material compositio,NeoNGPT_GPT4o,25,0.48,0.0,0.0
+Recycling of a product may depend on its material compositio,OntoChat,5,0.6,0.0,0.0
+Resources are what is worked on in the circular value networ,Gold,3,0.0,0.0,0.0
+Resources are what is worked on in the circular value networ,NeoNGPT_GPT4o,20,0.15,0.0,0.0
+Resources are what is worked on in the circular value networ,OntoChat,5,0.2,0.0,0.0
+"Sage, a water resource manager with a background in environm",Gold,2,0.0,0.0,0.0
+"Sage, a water resource manager with a background in environm",NeoNGPT_GPT4o,20,0.3,0.0,0.0
+"Sage, a water resource manager with a background in environm",OntoChat,5,0.2,0.0,0.0
+Sophia is a musicologist and a practising musician. Sophia i,Gold,2,0.0,0.0,0.0
+Sophia is a musicologist and a practising musician. Sophia i,NeoNGPT_GPT4o,20,0.2,0.0,0.0
+Sophia is a musicologist and a practising musician. Sophia i,OntoChat,5,0.0,0.0,0.0
+"Sophia’s original qualifications, and her Ph.D., were in mus",Gold,7,0.0,0.0,0.0
+"Sophia’s original qualifications, and her Ph.D., were in mus",NeoNGPT_GPT4o,15,0.267,0.0,0.467
+"Sophia’s original qualifications, and her Ph.D., were in mus",NeoNGPT_Qwen3,1,1.0,0.0,0.0
+"Sophia’s original qualifications, and her Ph.D., were in mus",OntoChat,5,0.0,0.0,0.0
+Successfully plan the restoration of an organ.. In this scen,Gold,6,0.167,0.0,0.0
+Successfully plan the restoration of an organ.. In this scen,NeoNGPT_GPT4o,20,0.3,0.0,0.4
+Successfully plan the restoration of an organ.. In this scen,NeoNGPT_Qwen3,3,0.0,0.0,0.0
+Successfully plan the restoration of an organ.. In this scen,OntoChat,5,0.6,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,Gold,2,0.0,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,NeoNGPT_GPT4o,20,0.15,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,NeoNGPT_Qwen3,4,0.0,0.0,0.0
+The system asks me if I want to order tickets to a proposed ,OntoChat,5,0.0,0.0,0.0
+The value proposition that a circular value network holds is,Gold,1,0.0,0.0,0.0
+The value proposition that a circular value network holds is,NeoNGPT_GPT4o,20,0.3,0.0,0.0
+The value proposition that a circular value network holds is,OntoChat,5,0.0,0.0,0.0
+"There are many different weather services available online, ",Gold,3,0.0,0.0,0.0
+"There are many different weather services available online, ",NeoNGPT_GPT4o,20,0.2,0.0,0.0
+"There are many different weather services available online, ",OntoChat,5,0.6,0.0,0.0
+There are several actors involved in a construction use case,Gold,2,0.0,0.0,0.0
+There are several actors involved in a construction use case,NeoNGPT_GPT4o,20,0.3,0.0,0.0
+There are several actors involved in a construction use case,NeoNGPT_Qwen3,50,0.16,0.0,0.0
+There are several actors involved in a construction use case,OntoChat,5,0.0,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",Gold,3,0.0,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",NeoNGPT_GPT4o,20,0.05,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",NeoNGPT_Qwen3,1,0.0,0.0,0.0
+"There is a sneak preview of an action film called ""X-men"" to",OntoChat,5,0.0,0.0,0.0
+"Today my calendar contains a meeting at noon, but then I hav",Gold,2,0.0,0.0,0.0
+"Today my calendar contains a meeting at noon, but then I hav",NeoNGPT_GPT4o,20,0.0,0.0,0.0
+"Today my calendar contains a meeting at noon, but then I hav",OntoChat,5,0.0,0.0,0.0
+When I am standing in front of the mirror brushing my teeth ,Gold,4,0.25,0.0,0.0
+When I am standing in front of the mirror brushing my teeth ,NeoNGPT_GPT4o,15,0.133,0.0,0.0
+When I am standing in front of the mirror brushing my teeth ,OntoChat,5,0.0,0.0,0.0

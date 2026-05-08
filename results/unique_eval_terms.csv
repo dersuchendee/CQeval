@@ -1,0 +1,107 @@
+eval_term,frequency
+non-elite,15
+specific,14
+efficient,10
+best practices,10
+key,9
+preferred,7
+usability,6
+efficiency,6
+sustainability,5
+relevant,4
+user-friendly,4
+recommended,4
+optimized,4
+performance metrics,4
+accessibility,3
+effectively,3
+particular,3
+reliability,3
+sustainable,3
+performance,3
+benefits,3
+recognized,2
+prestige,2
+significant,2
+efficiently,2
+notable,2
+reliable,2
+compliance,2
+prefer,2
+optimization,2
+scalability,2
+formalized,1
+credibility,1
+illogical,1
+unreliable or untrue,1
+accuracy,1
+prestigious,1
+accessible,1
+beginner,1
+hearing-impaired,1
+ethical,1
+inclusivity,1
+major,1
+most frequently occurring,1
+quality,1
+annotations,1
+curated,1
+formally recognized,1
+documented,1
+cultural significance,1
+formalization,1
+accurately,1
+"i notice that no specific cq (competency question) has been provided in your prompt—only the scenario about sophia is given. the instruction asks me to identify evaluative terms in ""the cq above",1
+""" but there is no actual cq text to analyze.
+
+please provide the specific cq you would like me to annotate",1
+and i will identify any evaluative or norm,1
+specific?,1
+"i notice you've provided a scenario but no actual competency question (cq) to annotate. the instruction says ""**note**: the above list is a placeholder to indicate the format. below is the actual list of competency questions based on the ontology requirements: cq1"" but then no cq text follows.
+
+please provide the specific competency question you'd like me to",1
+beneficial,1
+mitigated,1
+most suitable,1
+suitable,1
+good choice,1
+ideally,1
+should,1
+successful,1
+optimizing,1
+evaluating,1
+potential bottlenecks,1
+inefficiencies,1
+authenticity,1
+key factors,1
+quality control measures,1
+transparency,1
+necessary,1
+sustainability implications,1
+most sustainable,1
+top-rated,1
+hierarchically,1
+knowledge-sharing opportunities,1
+healthy,1
+key elements,1
+ensure,1
+fast,1
+optimal,1
+highly recyclable,1
+impact,1
+better,1
+improve,1
+enhancing,1
+key performance,1
+success,1
+perform,1
+effective,1
+preferences,1
+quick,1
+easily,1
+accuracy level,1
+improved,1
+improving,1
+value metrics,1
+suitability,1
+alignment,1

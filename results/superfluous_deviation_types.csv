@@ -1,0 +1,6 @@
+group,dataset,dev_type,count,total_with_deviation,proportion
+Gold,Polifonia,Expansion,37,49,0.755
+Gold,Polifonia,Specification,8,49,0.163
+Gold,Polifonia,Implicit Assumption,3,49,0.061
+Gold,Polifonia,Restriction,1,49,0.02
+OntoChat,Polifonia,Expansion,4,4,1.0

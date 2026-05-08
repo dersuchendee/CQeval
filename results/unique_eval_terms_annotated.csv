@@ -1,0 +1,107 @@
+eval_term,frequency,type,subtype
+non-elite,15,Judgment,normality
+specific,14,Appreciation,composition
+efficient,10,Appreciation,valuation
+best practices,10,Appreciation,valuation
+key,9,Appreciation,valuation
+preferred,7,Appreciation,valuation
+usability,6,Appreciation,valuation
+efficiency,6,Appreciation,valuation
+sustainability,5,Appreciation,valuation
+relevant,4,Appreciation,reaction
+user-friendly,4,Appreciation,valuation
+recommended,4,Appreciation,valuation
+optimized,4,Appreciation,valuation
+performance metrics,4,Appreciation,valuation
+accessibility,3,Appreciation,valuation
+effectively,3,Appreciation,valuation
+particular,3,Appreciation,valuation
+reliability,3,Appreciation,valuation
+sustainable,3,Appreciation,valuation
+performance,3,Appreciation,valuation
+benefits,3,Appreciation,valuation
+recognized,2,Appreciation,valuation
+prestige,2,Appreciation,valuation
+significant,2,Appreciation,valuation
+efficiently,2,Appreciation,valuation
+notable,2,Appreciation,valuation
+reliable,2,Appreciation,valuation
+compliance,2,Appreciation,valuation
+prefer,2,Appreciation,valuation
+optimization,2,Appreciation,valuation
+scalability,2,Appreciation,valuation
+formalized,1,Appreciation,valuation
+credibility,1,Appreciation,valuation
+illogical,1,Appreciation,valuation
+unreliable or untrue,1,Appreciation,valuation
+accuracy,1,Appreciation,valuation
+prestigious,1,Appreciation,valuation
+accessible,1,Appreciation,valuation
+beginner,1,Appreciation,valuation
+hearing-impaired,1,Appreciation,valuation
+ethical,1,Appreciation,valuation
+inclusivity,1,Appreciation,valuation
+major,1,Appreciation,valuation
+most frequently occurring,1,Appreciation,valuation
+quality,1,Appreciation,valuation
+annotations,1,Appreciation,valuation
+curated,1,Appreciation,valuation
+formally recognized,1,Appreciation,valuation
+documented,1,Appreciation,valuation
+cultural significance,1,Appreciation,valuation
+formalization,1,Appreciation,valuation
+accurately,1,Appreciation,valuation
+"i notice that no specific cq (competency question) has been provided in your prompt—only the scenario about sophia is given. the instruction asks me to identify evaluative terms in ""the cq above",1,Appreciation,composition
+""" but there is no actual cq text to analyze.
+
+please provide the specific cq you would like me to annotate",1,Appreciation,composition
+and i will identify any evaluative or norm,1,Appreciation,valuation
+specific?,1,Appreciation,composition
+"i notice you've provided a scenario but no actual competency question (cq) to annotate. the instruction says ""**note**: the above list is a placeholder to indicate the format. below is the actual list of competency questions based on the ontology requirements: cq1"" but then no cq text follows.
+
+please provide the specific competency question you'd like me to",1,Appreciation,composition
+beneficial,1,Appreciation,valuation
+mitigated,1,Appreciation,valuation
+most suitable,1,Appreciation,valuation
+suitable,1,Appreciation,valuation
+good choice,1,Appreciation,valuation
+ideally,1,Appreciation,valuation
+should,1,Appreciation,valuation
+successful,1,Appreciation,valuation
+optimizing,1,Appreciation,valuation
+evaluating,1,Appreciation,valuation
+potential bottlenecks,1,Appreciation,valuation
+inefficiencies,1,Appreciation,valuation
+authenticity,1,Appreciation,valuation
+key factors,1,Judgment,normality
+quality control measures,1,Appreciation,valuation
+transparency,1,Appreciation,valuation
+necessary,1,Appreciation,valuation
+sustainability implications,1,Appreciation,valuation
+most sustainable,1,Appreciation,valuation
+top-rated,1,Appreciation,valuation
+hierarchically,1,Appreciation,valuation
+knowledge-sharing opportunities,1,Appreciation,valuation
+healthy,1,Appreciation,valuation
+key elements,1,Appreciation,valuation
+ensure,1,Appreciation,valuation
+fast,1,Appreciation,valuation
+optimal,1,Appreciation,valuation
+highly recyclable,1,Appreciation,valuation
+impact,1,Appreciation,valuation
+better,1,Appreciation,valuation
+improve,1,Appreciation,valuation
+enhancing,1,Appreciation,valuation
+key performance,1,Appreciation,valuation
+success,1,Appreciation,valuation
+perform,1,Appreciation,valuation
+effective,1,Appreciation,valuation
+preferences,1,Appreciation,valuation
+quick,1,Appreciation,valuation
+easily,1,Appreciation,valuation
+accuracy level,1,Appreciation,valuation
+improved,1,Appreciation,valuation
+improving,1,Appreciation,valuation
+value metrics,1,Appreciation,valuation
+suitability,1,Appreciation,valuation
+alignment,1,Appreciation,valuation

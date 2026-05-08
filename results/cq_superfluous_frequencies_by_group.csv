@@ -1,0 +1,173 @@
+term,frequency,group
+tune family,7,all
+source,5,all
+when,4,all
+built,4,all
+building,3,all
+church,3,all
+instrument realization,3,all
+where,3,all
+why,2,all
+context,2,all
+cast,2,all
+invented,2,all
+original parts,2,all
+moved to,2,all
+another location,2,all
+collections,2,all
+renovated,1,all
+places,1,all
+coming from,1,all
+point in time,1,all
+disposition,1,all
+level of confidence,1,all
+similarities,1,all
+measure,1,all
+differences,1,all
+similarity measure,1,all
+perform,1,all
+performer,1,all
+nature,1,all
+celebration,1,all
+private event,1,all
+festival,1,all
+religious,1,all
+secular,1,all
+paid,1,all
+support,1,all
+happened to be there,1,all
+attendees,1,all
+provenance,1,all
+travel,1,all
+place,1,all
+reach,1,all
+invited,1,all
+accidental,1,all
+relation,1,all
+participants,1,all
+power relation,1,all
+patreon,1,all
+main,1,all
+urban,1,all
+located,1,all
+periurban,1,all
+how many,1,all
+poliorganic,1,all
+foundry,1,all
+material,1,all
+weight,1,all
+measures,1,all
+extension,1,all
+gender inclusivity,1,all
+heritage,1,all
+adult,1,all
+musicians,1,all
+working at the same time,1,all
+relationship,1,all
+patrons,1,all
+network,1,all
+enhanced,1,all
+physical realization,1,all
+parts of,1,all
+who,1,all
+subject,1,all
+credibility,1,all
+goal,1,all
+type,1,all
+context of production,1,all
+context of usage,1,all
+cross-referenced,1,all
+located originally,1,all
+visualize,1,all
+when relevant,1,all
+number of parts,1,all
+digital scores,1,all
+tune family,7,gold
+source,5,gold
+when,4,gold
+built,4,gold
+building,3,gold
+church,3,gold
+instrument realization,3,gold
+where,3,gold
+why,2,gold
+context,2,gold
+cast,2,gold
+invented,2,gold
+original parts,2,gold
+moved to,2,gold
+another location,2,gold
+renovated,1,gold
+places,1,gold
+coming from,1,gold
+point in time,1,gold
+disposition,1,gold
+level of confidence,1,gold
+similarities,1,gold
+measure,1,gold
+differences,1,gold
+similarity measure,1,gold
+perform,1,gold
+performer,1,gold
+nature,1,gold
+celebration,1,gold
+private event,1,gold
+festival,1,gold
+religious,1,gold
+secular,1,gold
+paid,1,gold
+support,1,gold
+happened to be there,1,gold
+attendees,1,gold
+provenance,1,gold
+travel,1,gold
+place,1,gold
+reach,1,gold
+invited,1,gold
+accidental,1,gold
+relation,1,gold
+participants,1,gold
+power relation,1,gold
+patreon,1,gold
+urban,1,gold
+located,1,gold
+periurban,1,gold
+how many,1,gold
+poliorganic,1,gold
+foundry,1,gold
+material,1,gold
+weight,1,gold
+measures,1,gold
+extension,1,gold
+heritage,1,gold
+adult,1,gold
+musicians,1,gold
+working at the same time,1,gold
+relationship,1,gold
+patrons,1,gold
+network,1,gold
+physical realization,1,gold
+parts of,1,gold
+who,1,gold
+subject,1,gold
+credibility,1,gold
+goal,1,gold
+type,1,gold
+context of production,1,gold
+context of usage,1,gold
+located originally,1,gold
+collections,1,gold
+visualize,1,gold
+when relevant,1,gold
+number of parts,1,gold
+digital scores,1,gold
+main,1,generated
+gender inclusivity,1,generated
+enhanced,1,generated
+cross-referenced,1,generated
+collections,1,generated
+main,1,OntoChat
+gender inclusivity,1,OntoChat
+enhanced,1,OntoChat
+cross-referenced,1,OntoChat
+collections,1,OntoChat

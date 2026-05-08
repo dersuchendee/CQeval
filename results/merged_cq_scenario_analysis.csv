@@ -1,0 +1,780 @@
+scenario_key,scenario_text,cq_text,group,system,sc_framing_bias,sc_eval_terms_raw,sc_eval_terms_norm,sc_structural_raw,sc_structural_norm,cq_framing_bias,cq_eval_terms_raw,cq_eval_terms_norm,cq_structural_raw,cq_structural_norm,cq_superfluous_raw,cq_superfluous_norm,notes,scenario_motivated,scenario_motivated_reason,shared_eval_set,shared_struct_set,propagated_eval,propagated_struct,propagated_framing,eval_precision,eval_recall,struct_precision,struct_recall,strict_source_inconsistency,weighted_source_inconsistency
+amy wants to assess the developments of organ builders this research includes looking into which org,"Amy wants to assess the developments of organ builders. This research includes looking into which organs an organ builder worked on and how their projects developed over time. This development can range from an increase of the size of the organ, to locality of their projects, or to the type or prestige of the project. The history section of the 15-part organ encyclopaedia is mostly used for this as this specifies year and changes that are made to the organs, but this obviously takes a lot of time and effort to research. 
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",Who built and/or renovated an organ?,gold,gold,True,prestige,prestige,,,False,,,,,renovated,renovated,even if attributable elements: development (over time) + changes that are made to the organs,yes,"```json
+{""label"": ""yes"", ""reason"": ""The note acknowledges that the elements (development over time and changes to organs",,,0.0,0.0,0.0,,0.0,,,1,0.5
+amy wants to assess the developments of organ builders this research includes looking into which org,"Amy wants to assess the developments of organ builders. This research includes looking into which organs an organ builder worked on and how their projects developed over time. This development can range from an increase of the size of the organ, to locality of their projects, or to the type or prestige of the project. The history section of the 15-part organ encyclopaedia is mostly used for this as this specifies year and changes that are made to the organs, but this obviously takes a lot of time and effort to research. 
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",What organs did the organ builder work on?,generated,OntoChat,True,prestige,prestige,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+amy wants to assess the developments of organ builders this research includes looking into which org,"Amy wants to assess the developments of organ builders. This research includes looking into which organs an organ builder worked on and how their projects developed over time. This development can range from an increase of the size of the organ, to locality of their projects, or to the type or prestige of the project. The history section of the 15-part organ encyclopaedia is mostly used for this as this specifies year and changes that are made to the organs, but this obviously takes a lot of time and effort to research. 
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",How did the projects of the organ builder develop over time?,generated,OntoChat,True,prestige,prestige,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+amy wants to assess the developments of organ builders this research includes looking into which org,"Amy wants to assess the developments of organ builders. This research includes looking into which organs an organ builder worked on and how their projects developed over time. This development can range from an increase of the size of the organ, to locality of their projects, or to the type or prestige of the project. The history section of the 15-part organ encyclopaedia is mostly used for this as this specifies year and changes that are made to the organs, but this obviously takes a lot of time and effort to research. 
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",What changes were made to the organs over the years?,generated,OntoChat,True,prestige,prestige,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+amy wants to assess the developments of organ builders this research includes looking into which org,"Amy wants to assess the developments of organ builders. This research includes looking into which organs an organ builder worked on and how their projects developed over time. This development can range from an increase of the size of the organ, to locality of their projects, or to the type or prestige of the project. The history section of the 15-part organ encyclopaedia is mostly used for this as this specifies year and changes that are made to the organs, but this obviously takes a lot of time and effort to research. 
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",How does the Dutch organ encyclopaedia help in understanding the arthistorical and technical aspects of organs?,generated,OntoChat,True,prestige,prestige,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+amy wants to assess the developments of organ builders this research includes looking into which org,"Amy wants to assess the developments of organ builders. This research includes looking into which organs an organ builder worked on and how their projects developed over time. This development can range from an increase of the size of the organ, to locality of their projects, or to the type or prestige of the project. The history section of the 15-part organ encyclopaedia is mostly used for this as this specifies year and changes that are made to the organs, but this obviously takes a lot of time and effort to research. 
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",What information can be obtained from the database websites about organs and churches?,generated,OntoChat,True,prestige,prestige,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",What is the rhythm of the bassline?,gold,gold,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",What is the rhythm of the electronic drum kit?,gold,gold,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",Who is the bass player that Anna is a big fan of?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",Who is the drummer that Ben is interested in?,generated,OntoChat,False,,,,,False,,,,,,,"friend? problema della source e l'LLM assume una cosa. friendYes, who are they? friend?
+NOTA PER ME",uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",What type of haptic technology is offered by the Stables music venue for enhancing the concert experience?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",What is the summer workshop being run for hearing impaired beginner drummers?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+anna wants to experience live music with the aid of haptic technology anna who became hearing impair,"Anna wants to experience live music with the aid of haptic technology. Anna, who became hearing impaired in later life, attends a concert by The Blockheads at the Stables music venue with a friend Ben who is deaf from birth, and her hearing friend Caroline. In order to enhance their experience of the concert, they decide to use the haptic bracelets offered by the venue. Anna is a big fan of the bass player Norman Watt Roy, whereas her friend is interested in the drums played by John Roberts. For tonight’s performance, the Stables are offering a live automatic haptic transcription of the bass part. The Stables have also hired a musical interpreter for the hearing impaired who will be communicating the overall performance using an electronic drum kit from which a haptic feed is available. As a third option, a chest-worn transducer is available that takes the audio feed and turns the wearer’s chest cavity into a bass woofer. Anna used the bass transcription. Ben opted for the live interpretation. During ‘Hit me with your rhythm stick’ Anna grabs the hand of her hearing friend Caroline in excitement and puts it on her wrist to feel the bass rhythm. Anna and Ben sign to each other during the first two songs, and decide to swap feeds for the third.When they hand the equipment back in at the end of the gig, the Stables staff point out that there is a summer workshop being run for hearing impared beginner drummers using a full drum kit and bracelets on all four limbs.
+",What feed did Anna and Ben decide to swap during the concert?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",Where were the places (in which they played)?,gold,gold,True,elite; non elite; relevant,elite; non elite; relevant,,,True,,,they,they,places,places,capire bene + they non chiaro. where come parte di environment,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note mixes Italian and English in a fragmented way that does not clearly i",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",Where were the musicians coming from?,gold,gold,True,elite; non elite; relevant,elite; non elite; relevant,,,False,,,,,coming from?,coming from,coming from?capire  ,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'coming from?capire' is unclear and appears to be incomplete or in a ",,,0.0,0.0,0.0,,0.0,,,1,1.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",Who were the musicians involved in non-elite music?,generated,OntoChat,True,elite; non elite; relevant,elite; non elite; relevant,,,True,non-elite,non-elite,,,,,elite not defined and so also non-elite,uncertain,,,,0.0,0.0,0.0,0.0,0.0,,,0,0.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",How did the particular musical environment relate to the wider musical environment?,generated,OntoChat,True,elite; non elite; relevant,elite; non elite; relevant,,,False,,,,,,,0,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",What was the audience like for non-elite music?,generated,OntoChat,True,elite; non elite; relevant,elite; non elite; relevant,,,True,non-elite,non-elite,,,,,justified by scenario (contrary of elite),uncertain,,,,0.0,0.0,0.0,0.0,0.0,,,0,0.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",How can sonic visualization be used to identify the composer of a piece of music?,generated,OntoChat,True,elite; non elite; relevant,elite; non elite; relevant,,,False,,,,,,,0,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+david is interested in understanding the social history of music eg who were the musicians who was t,"David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment. He has a particular interest in understanding the environment around music which would not be classified as 'elite' music. He is also interested in people's experience of listening to music. David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book. David's work could be helped by:
+
+sonic visualization, e.g. to recognise 'thumbprints' to identify the composer of a piece of music;
+
+search of document database using RDF annotations and query-time reasoning;
+
+NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+",How can NLP suggest relevant keywords for annotation in the context of music history research?,generated,OntoChat,True,elite; non elite; relevant,elite; non elite; relevant,,,True,relevant,relevant,,,,,"justified by scenario, not clear",uncertain,,relevant,,1.0,0.0,1.0,1.0,0.3333333333333333,,,0,0.0
+for her next research project amy wants to discover artistic and technical trends of organs and how ,"For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. The development of these trends could possibly indicate wider social trends. During the project, Amy researches both artistic and technical trends surrounding organs in the Netherlands. Amy is interested in finding connections between different regions and time periods to see how the trends have developed. She also wants to put her findings in a historical and social context. Amy hopes that the knowledge graphs can help her identify initial trends. That way she knows where to dig deeper to understand the trends. In order to discover trends, comparisons similar to those needed by the organ advisor (Paul) are required. But besides the comparison of stops in organs made by the same organ builder, the comparisons can be related to almost every component of the organ. For example, the different arthistorical details on the fronts of the organs, or the wind supply system are interesting to compare.
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",What was the disposition of the organ at a specific point in time?,gold,gold,False,,,,,False,,,,,disposition; point in time,disposition; point in time,disposition/point in time?,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note is a bare question without indication of whether the element is justi",,,0.0,0.0,0.0,,,,,1,1.0
+for her next research project amy wants to discover artistic and technical trends of organs and how ,"For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. The development of these trends could possibly indicate wider social trends. During the project, Amy researches both artistic and technical trends surrounding organs in the Netherlands. Amy is interested in finding connections between different regions and time periods to see how the trends have developed. She also wants to put her findings in a historical and social context. Amy hopes that the knowledge graphs can help her identify initial trends. That way she knows where to dig deeper to understand the trends. In order to discover trends, comparisons similar to those needed by the organ advisor (Paul) are required. But besides the comparison of stops in organs made by the same organ builder, the comparisons can be related to almost every component of the organ. For example, the different arthistorical details on the fronts of the organs, or the wind supply system are interesting to compare.
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",What are the artistic trends surrounding organs in the Netherlands?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+for her next research project amy wants to discover artistic and technical trends of organs and how ,"For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. The development of these trends could possibly indicate wider social trends. During the project, Amy researches both artistic and technical trends surrounding organs in the Netherlands. Amy is interested in finding connections between different regions and time periods to see how the trends have developed. She also wants to put her findings in a historical and social context. Amy hopes that the knowledge graphs can help her identify initial trends. That way she knows where to dig deeper to understand the trends. In order to discover trends, comparisons similar to those needed by the organ advisor (Paul) are required. But besides the comparison of stops in organs made by the same organ builder, the comparisons can be related to almost every component of the organ. For example, the different arthistorical details on the fronts of the organs, or the wind supply system are interesting to compare.
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",How have the technical trends of organs developed over time in the Netherlands?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+for her next research project amy wants to discover artistic and technical trends of organs and how ,"For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. The development of these trends could possibly indicate wider social trends. During the project, Amy researches both artistic and technical trends surrounding organs in the Netherlands. Amy is interested in finding connections between different regions and time periods to see how the trends have developed. She also wants to put her findings in a historical and social context. Amy hopes that the knowledge graphs can help her identify initial trends. That way she knows where to dig deeper to understand the trends. In order to discover trends, comparisons similar to those needed by the organ advisor (Paul) are required. But besides the comparison of stops in organs made by the same organ builder, the comparisons can be related to almost every component of the organ. For example, the different arthistorical details on the fronts of the organs, or the wind supply system are interesting to compare.
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",How can the development of organ trends indicate wider social trends?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+for her next research project amy wants to discover artistic and technical trends of organs and how ,"For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. The development of these trends could possibly indicate wider social trends. During the project, Amy researches both artistic and technical trends surrounding organs in the Netherlands. Amy is interested in finding connections between different regions and time periods to see how the trends have developed. She also wants to put her findings in a historical and social context. Amy hopes that the knowledge graphs can help her identify initial trends. That way she knows where to dig deeper to understand the trends. In order to discover trends, comparisons similar to those needed by the organ advisor (Paul) are required. But besides the comparison of stops in organs made by the same organ builder, the comparisons can be related to almost every component of the organ. For example, the different arthistorical details on the fronts of the organs, or the wind supply system are interesting to compare.
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",What connections can be found between different regions and time periods regarding organ trends in the Netherlands?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+for her next research project amy wants to discover artistic and technical trends of organs and how ,"For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. The development of these trends could possibly indicate wider social trends. During the project, Amy researches both artistic and technical trends surrounding organs in the Netherlands. Amy is interested in finding connections between different regions and time periods to see how the trends have developed. She also wants to put her findings in a historical and social context. Amy hopes that the knowledge graphs can help her identify initial trends. That way she knows where to dig deeper to understand the trends. In order to discover trends, comparisons similar to those needed by the organ advisor (Paul) are required. But besides the comparison of stops in organs made by the same organ builder, the comparisons can be related to almost every component of the organ. For example, the different arthistorical details on the fronts of the organs, or the wind supply system are interesting to compare.
+    Amy already has access to the physical as well as online library of the university where she works.
+    Amy also has the entire 15 volume collection from the Dutch organ encyclopaedia. She uses the encyclopaedia mostly for reading about the arthistorical and technical aspects and developments of organs and comparing these to other organs.
+    Database websites for information about organs and churches which all offer slightly different kinds of information:
+        https://www.kerk-en-orgel.nl
+        https://reliwiki.nl/
+        http://www.orgbase.nl
+        https://geoplaza.vu.nl/cms/research/kerkenkaart/ – Kerkenkaart (churchmap) from the Vrije Universiteit Amsterdam
+
+",How can historical and social contexts be applied to the findings of organ trends in the Netherlands?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",Has composition X been identified as variant in a tune family?,gold,gold,False,,,,,False,,,,,tune family,tune family,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",Which tune family does composition X belong to?,gold,gold,False,,,,,False,,,,,tune family,tune family,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",Who assigned composition X to tune family Y?,gold,gold,False,,,,,False,,,,,tune family,tune family,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",With what level of confidence is composition X a variant in tune family Y?,gold,gold,False,,,,,True,,,level of confidence,level of confidence,tune family; level of confidence,level of confidence; tune family,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,,1,1.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",What are all compositions in tune family X?,gold,gold,False,,,,,False,,,,,tune family,tune family,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",What are the similarities / differences of all compositions in tune family X according to measure Y?,gold,gold,False,,,,,False,,,4: similarities; differences,4: similarities; differences,similarities; differences; tune family; measure,differences; measure; similarities; tune family,the presence of Y helps us understand it includes all measures,yes,"```json
+{""label"": ""yes"", ""reason"": ""The note indicates the element is justified because its presence helps clarify the s",,,0.0,0.0,0.0,,,0.0,,1,0.5
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+","To what tune families is tune family X related, given similarity measure Y?",gold,gold,False,,,,,False,,,,,tune family; similarity measure,similarity measure; tune family,similarity measure Y,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'similarity measure Y' is too terse to determine whether the element ",,,0.0,0.0,0.0,,,,,1,1.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",How do Dutch folk tunes relate to music from French court operas?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",How can individual pieces of music be related to other documented music?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",How can musical repertoires be related generally?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",How does musical evolution and transmission over time occur?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+mark is interested in understanding how dutch folk tunes relate to other music eg from french court ,"Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. from French court operas.Starting from a collection of Dutch folk tunes, Mark attempts to relate these tunes to other documented music, using a variety of databases. Mark would like to relate individual pieces of music, but also repertoires generally. He would also like to understand musical evolution and transmission over time. Mark works with:
+
+RISM index of musical sources, composers etc https://opac.rism.info/main-menu-/kachelmenu with the ability to search on names and music
+
+NEUMA, a digital library of musical scores http://neuma.huma-num.fr/home/presentation
+
+ABC notation database http://abcnotation.com/
+
+Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
+
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
+Mark's work could be helped by:
+
+Connection to other databases, so that he could automatically query a range of databases
+",How can Mark automatically query a range of databases to aid his work?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",What places did musician Z visited in her career?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",Where did she perform?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,she,she,perform,perform,she?,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'she?' is an unanswered question that does not clearly indicate wheth",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",Where did she live?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,she,she,,,she?,uncertain,,,,0.0,0.0,0.0,,0.0,0.0,,0,0.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+","Did musician X and performer Y ever meet? Where, when, and why?",gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,musician=performer,musician=performer,Performer; why,performer; why,musician = performer?,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note is a bare question without indication of whether the annotator found ",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",In what context the meeting happened?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,context,context,context,context,,uncertain,No annotator note available,,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",What is the nature of the event?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,nature,nature,nature,nature,underspecified,no,"```json
+{""label"": ""no"", ""reason"": ""\""Underspecified\"" indicates the element lacks sufficient grounding in the scenario r",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+","Was it a celebration, a festival, a private event?",gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,celebration; festival; private event,celebration; festival; private event,celebration; festival; private event,celebration; festival; private event,underspecified,no,"```json
+{""label"": ""no"", ""reason"": ""The term 'underspecified' indicates the element lacks sufficient specification in the",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",Was it a religious or a secular event?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,religious; secular,religious; secular,religious; secular,religious; secular,underspecified+talking about religion,no,"```json
+{""label"": ""no"", ""reason"": ""The note indicates the element ('religion') is introduced without specification in th",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",Who paid to support the event?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,paid; support,paid; support,paid; support,paid; support,underspecified+pay,no,"```json
+{""label"": ""no"", ""reason"": ""The note 'underspecified+pay' indicates that 'pay' is introduced without explicit spe",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",What is the provenance of the event attendees? What and how they happened to be there?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,provenance; attendees; happened to be there,attendees; happened to be there; provenance,provenance; attendees; happened to be there,attendees; happened to be there; provenance,not specified,no,"```json
+{""label"": ""no"", ""reason"": ""The note 'not specified' directly indicates the element is not mentioned or required ",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",Did they travel to reach the place?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,they who? not specified,they who? not specified,travel; reach; place,place; reach; travel,,uncertain,No annotator note available,,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",Were they invited? Was the meeting accidental?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,they,they,invited; accidental,accidental; invited,they etc,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'they etc' is too vague and incomplete to determine whether the super",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",How can we characterize the relation among the participants?,gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,we; participants; relation,participants; relation; we,relation; participants,participants; relation,underspecified,no,"```json
+{""label"": ""no"", ""reason"": ""The term 'underspecified' indicates the element lacks sufficient specification in the",,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+","Was there a power relation? (e.g., Patreon / Musician)",gold,gold,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,power relation; patreon,patreon; power relation,power relation; patreon,patreon; power relation,,uncertain,No annotator note available,,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",What are the main events in the career of musicians?,generated,OntoChat,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,True,,,main,main,main,main,,uncertain,No annotator note available,,,0.0,0.0,0.0,,0.0,0.0,,1,1.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",How are the events and facts linked to the sources in the database?,generated,OntoChat,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",How can annotations be made on the content in the system?,generated,OntoChat,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+",How can the quality of sources and accuracy of statements be rated?,generated,OntoChat,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+ortenz would like to have a system for visualising events (meetings of composers and musicians) in t,"Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making emerge patterns of knowledge transmission.Ortenz is supervising a PhD student. They want to explore a database of prosopographic information of personalities relevant to the musical cultural heritage, focusing primarily on musicians' career but also involving relevant people in sectors such as art, politics, and industry. They are interested in the events and facts nad how they are linked to the sources (biographies, letters, memoirs, encyclopedia). She wants the system to allow her to make annotations on the content, rate the quality of the sources and the accuracy of the statements, and curate collections of facts/statements/events as material for scholarship. 
+    Wikipedia
+    DBpedia
+    Wikidata
+
+","How can collections of facts, statements, and events be curated for scholarship?",generated,OntoChat,True,Quality; accuracy; relevant,accuracy; quality; relevant,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,0.0,,,0,0.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Where is the building/church/bell tower?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,,,building; church,building; church,building; church,building; church,widening the scope instead of narrowing,no,"```json
+{""label"": ""no"", ""reason"": ""The note indicates the CQ expanded beyond the scenario's requirements rather than der",,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",When (what year) was the building built?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,,,When; building; built,building; built; when,When; building; built,building; built; when,time+building+built.what building??,no,"```json
+{""label"": ""no"", ""reason"": ""The annotator's questioning tone ('what building??') indicates the building element i",,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+","In which context is the building located (urban, periurban...)?",gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,context; building; located; urban; periurban,building; context; located; periurban; urban,context; building; located; urban; periurban,building; context; located; periurban; urban,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Are there bells in the church/bell tower? How many bells are in the church/bell tower?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,,,church; how many,church; how many,church; how many,church; how many,how many -- count not asked,no,"```json
+{""label"": ""no"", ""reason"": ""The note 'count not asked' explicitly states that the counting operation was not requ",,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Is there a single bell or a poliorganic instrument (a set of bells) in a church/bell tower?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,,,poliorganic; church,church; poliorganic,poliorganic; church,church; poliorganic,introduced new word?,no,"```json
+{""label"": ""no"", ""reason"": ""The phrase 'introduced new word?' directly indicates that a term was added without be",,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",By whom (by which foundry) were they cast?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,,,they,they,foundry; cast,cast; foundry,"introduction of how the bells were made, not clear. they who?",no,"```json
+{""label"": ""no"", ""reason"": ""The annotator questions the clarity and motivation of the element ('not clear', 'they",,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",When were they cast?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,,,they,they,cast,cast,see before,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'see before' is too vague and lacks sufficient context to determine w",,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Which is the material of the bell?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,,,material,material,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Which is the weight of the bell?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,,,weight,weight,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Which are the measures of the bell?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,,,measures,measures,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Which is the extension of the whole set of bells in a bell tower?,gold,gold,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,non so se c'entra con l'elettrificazione,non so se c'entra con l'elettrificazione,extension,extension,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,0.0,1,1.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",What are the denominations and locations of the bell towers involved in sound practices?,generated,OntoChat,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,0.0,0,0.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Are the sounds of the bell towers produced by hand or through electrification?,generated,OntoChat,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,0.0,0,0.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+",Are there formalized and recognized human groups conducting the bell tower practices?,generated,OntoChat,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,True,formalized; recognized,formalized; recognized,formalized; recognized,formalized; recognized,,,scalar,uncertain,,,formalized; recognized,0.0,1.0,1.0,0.0,,1.0,0.6666666666666666,0,0.0
+patrizia is a demo-ethno-anthropologist officer of the ministry of culture and she is responsible fo,"Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention. She needs to know if the bells of some bell towers are involved in sound practices conducted by collective social actors who recognize those practices as constitutive trait of their collective identity. Patrizia starts her investigation from the denominations and the location of the bell towers. Patrizia checks whether the sound of those bell towers is done by hand or through electrification. Patrizia checks if there are more or less formalized and more or less recognized human groups that carry out those practices. Patrizia investigate what kind of transmission and apprenticeship methods are carried out: in what age groups, if exclusively male or even female, with what type of transmission (oral, written, formal or informal).
+","What methods of transmission and apprenticeship are used for the bell tower practices, including age groups and gender inclusivity?",generated,OntoChat,True,,,formalized; recognized; male OR EVEN female,formalized; male or even female; recognized,False,,,,,gender inclusivity,gender inclusivity,male or even female --> gender inclusivity! good!!!,no,"```json
+{""label"": ""no"", ""reason"": ""The annotator praises the inclusion of gender-inclusive language as a positive additi",,,0.0,0.0,0.0,,,,0.0,1,1.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,What is the difference between the ‘official’ perception of the role of music and how music is experienced?,gold,gold,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,How is music used to teach children about identity and heritage?,gold,gold,,,,,,True,,,identity=heritage?,identity=heritage,heritage,heritage,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,What is the adult perception of the role of music in children’s education?,gold,gold,,,,,,True,,,adult?,adult,adult,adult,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,What sources provide evidence of children's listening experiences with music?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,How can the context of production of sources related to children's music experiences be analyzed?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,What are the recurring motifs and themes in sources depicting children's music experiences?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,How can emotional responses elicited by children's music experiences be characterized?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+persona ortenz is a music historian with a background in art history and literature goal ortenz is p,,How does the development of identified phenomena related to children's music experiences vary across different historical periods?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+","What is the time relationship between different musicians, e.g., who was working at the same time?",gold,gold,False,,,,,True,,,time relationship,time relationship,relationship; musicians; working at the same time,musicians; relationship; working at the same time,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,,1,1.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+","What was the composer’s network (patrons, institutions …)?",gold,gold,False,,,,,True,,,network,network,network; patrons,network; patrons,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,,1,1.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+","What is the relationship between music, medicine, and religion at the charitable institution in 17th century Italy?",generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+",How does Sophia currently maintain and compare information for her research?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+",What resources does Sophia use for her social-historical research on music in 17th century Italy?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+",How does Sophia analyze the photographs she takes of relevant material from libraries?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia is a musicologist and a practising musician sophia is interested in understanding the social-,"Sophia is a musicologist and a practising musician. Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds. Sophia is doing social-historical research, using textual sources. One of her current projects is concerned with the relationship between music, medicine and religion at a particular charitable institution in 17th century Italy. The sources she uses, which are also not digitized, include records of an institution, payslips etc.The resources which Sophia uses are often not digitized. Therefore she needs to visit libraries. Whilst there, she will sift through the appropriate material, and take photographs of the most relevant. She will then analyze these photographs on her return home. In one particular library she may not be able to take photographs, and there she can only take notes. Sophia uses spreadsheets to maintain and compare information.
+
+Sophia's work could be helped by:
+
+    digitalisation of her source material;
+    handwriting OCR;
+    data visualization, e.g. to illustrate relationships between composers, institutions etc.;
+    use of a database, i.e. as upgrade to current use of spreadsheets;
+    named-entity recognition
+
+",How could Sophia's work be enhanced through the use of named-entity recognition?,generated,OntoChat,False,,,,,True,,,enhanced,enhanced,enhanced,enhanced,helped = enhanced,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'helped = enhanced' appears to be a synonym mapping or definition but",,,0.0,0.0,0.0,,,0.0,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",Which is the physical realization of an instrument?,gold,gold,False,,,,,False,,,,,physical realization,physical realization,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",Which are the parts of an instrument?,gold,gold,False,,,,,False,,,,,parts of,parts of,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",Who invented an instrument?,gold,gold,False,,,,,False,,,,,invented,invented,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",When was an instrument invented?,gold,gold,False,,,,,False,,,,,when; invented,invented; when,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",When was an instrument realization built?,gold,gold,False,,,,,False,,,,,when; instrument realization; built,built; instrument realization; when,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",Where was an instrument realization built?,gold,gold,False,,,,,False,,,,,where; instrument realization; built,built; instrument realization; where,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",Who built an instrument realization?,gold,gold,False,,,,,False,,,,,who; built; instrument realization,built; instrument realization; who,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",What are the properties of musical instruments that Sophia needs to consider for her music festival organization?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",How were musical instruments used in original compositions and in the 18th century?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",To which instrument family does each instrument belong?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",In which instrument combinations have they been used in musical compositions from any era?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+sophia’s original qualifications and her phd were in music and she is also a practising musician she,"Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. As musician and historian, Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes music compositions of that time with a completely new orchestration. To do this, she needs detailed informations about musical instruments, ancient and modern: how they were used in the original compositions and in the 18th century, to which instrument family each instrument belongs, in which instruments combination they have been used in musical compositions from any era. For each instrument Sophia will have to take into account these important properties: the timbre or range of timbres; the range of pitches; the dynamic range. Sophia is also interested to know the instrument's notation.",What is the notation of the instruments Sophia is interested in?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",Which is the subject of a source?,gold,gold,False,,,,,True,,,x,x,subject; source,source; subject,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",Which is the credibility of a source?,gold,gold,False,,,,,False,credibility,credibility,,,credibility,credibility,credibility,uncertain,"```json
+{""label"": ""uncertain"", ""reason"": ""The note 'credibility' is a single term without context indicating whether it ",,,0.0,0.0,0.0,0.0,,,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",Which is the goal of a source?,gold,gold,False,,,,,True,,,intro of goal,intro of goal,goal; source,goal; source,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",Which is the type of a source?,gold,gold,False,,,,,True,,,x,x,type; source,source; type,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,0.0,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",Which is the context of production of a source?,gold,gold,False,,,,,True,,,,,context of production; source,context of production; source,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",Which is the context of usage of a source?,gold,gold,False,,,,,True,,,,,context of usage; source,context of usage; source,,uncertain,No annotator note available,,,0.0,0.0,0.0,,,,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",What components and technicalities of the organ seem illogical compared to other organs from the same builder?,generated,OntoChat,False,,,,,True,illogical,illogical,,,,,illogical=consistency term so there is consistency bias,uncertain,,,,0.0,0.0,0.0,0.0,,,,0,0.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",How can unreliable or untrue facts about the organ be marked to save time for checking and verifying?,generated,OntoChat,False,,,,,True,unreliable or untrue,unreliable or untrue,,,,,,uncertain,,,,0.0,0.0,0.0,0.0,,,,0,0.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",What sources can be consulted to gather information about the organ for restoration planning?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",How can the information from Het Historische Orgel in Nederland and other sources be cross-referenced to ensure accuracy?,generated,OntoChat,False,,,,,False,accuracy,accuracy,,,cross-referenced,cross-referenced,,uncertain,No annotator note available,,,0.0,0.0,0.0,0.0,,,,1,1.0
+successfully plan the restoration of an organ in this scenario paul has to plan a similar restoratio,"Successfully plan the restoration of an organ.. In this scenario Paul has to plan a similar restoration. However, from his already extensive knowledge about organs, he is uncertain about some of the information that was provided by the encyclopaedia. That is, some of the mentioned components and technicalities such as the pitch seemed illogical when compared to the other organs from the same organ builder. If it would somehow be possible to mark facts that are unreliable or untrue, that would save Paul a lot of time checking, verifying, and notating.
+    Het Historische Orgel in Nederland – Dutch organ encyclopedia
+    http://www.orgbase.nl – Dutch hobbyist-made website with information similar to Het Historische Orgel
+    Church and city archives
+    Old newspapers
+    https://www.delpher.nl – digital database from the Dutch Royal Library
+    Organs (sight visits)
+    http://www.dtbob.org/ – Belgian digital organ database
+
+",What steps can be taken to verify the reliability of information obtained from the Dutch hobbyist-made website and other sources for the organ restoration planning?,generated,OntoChat,False,,,,,False,,,,,,,,uncertain,,,,0.0,0.0,0.0,,,,,0,0.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,What are the original parts of the organ?,gold,gold,,,,,,False,,,,,original parts,original parts,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,Where are the original parts of an organ?,gold,gold,,,,,,False,,,,,where; original parts,original parts; where,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,Where is an organ located originally?,gold,gold,,,,,,False,,,,,where; located originally,located originally; where,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,When is an organ moved to another location?,gold,gold,,,,,,True,,,another location,another location,when; moved to; another location,another location; moved to; when,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,Why is an organ moved to another location?,gold,gold,,,,,,True,,,another location,another location,why; moved to; another location,another location; moved to; why,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,What is the purpose of Paul's task?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,How does Paul search for the correct organ in the Dutch organ encyclopaedia?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,What does Paul do after finding all organs made by the same organ builder?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,How does Paul verify the original stops of the organ up for restoration?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+successfully plan the restoration of an organ paul is hired to plan and supervise the restoration of,,What resources does Paul use during the restoration planning process?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,"Is there a digital space to represent and describe the concept of “Opus”, and store digital scores related to an opus?",gold,gold,,,,,,True,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,"Is my collections and subcollections organisation based on clear concepts (e.g., genre, composer, period…) to gather Opuses?",gold,gold,,,,,,,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,"Am I able to nagivate, search and visualize my collections and opus?",gold,gold,,,,,,True,,,,,collections; visualize,collections; visualize,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,"Can I examine features extracted from digital scores (e.g., tonality, when relevant, number of parts, etc.)?",gold,gold,,,,,,True,,,x,x,digital scores; when relevant; number of parts,digital scores; number of parts; when relevant,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,"Identify the dimensions and/or features that are relevant to support an on-the-fly reorganization of the digital library, whenever the standard organization does not meet the user’s expectations?",gold,gold,,,,,,,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,"Can I progressively explore the content of my library, adding criteria to refine large results?",gold,gold,,,,,,,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,What is the musical work (Opus) that a score belongs to?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,How does a score relate to standard external resources such as composers or authorships?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,What information is included in the licence and copyright details of a score?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,How is an organization in collections defined and managed for scores?,generated,OntoChat,,,,,,True,,,introduced organization in collections,introduced organization in collections,collections,collections,,uncertain,No annotator note available,,,,,,,,,,1,1.0
+the dashboard presents an overview of the classifying dimensions some of them might be hierarchical ,,What tools are available to Jorge for managing the organization and searching for relevant scores?,generated,OntoChat,,,,,,False,,,,,,,,uncertain,,,,,,,,,,,0,0.0

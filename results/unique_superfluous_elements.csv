@@ -1,0 +1,798 @@
+superfluous_element,frequency
+ontology,169
+relationships,15
+specific,14
+interoperability,10
+properties,9
+tune family,7
+source,7
+mechanisms,7
+user preferences,7
+when,6
+preferences,6
+best practices,6
+scalability,6
+performance metrics,6
+lifecycle,6
+integrate,6
+roles,5
+processes,5
+director,5
+built,4
+cast,4
+relationship,4
+complex queries,4
+interoperability requirements,4
+usability features,4
+updated,4
+maintained,4
+duration,4
+criteria,4
+genre,4
+associated with,4
+release year,4
+location,4
+differences,3
+context,3
+support,3
+provenance,3
+participants,3
+building,3
+church,3
+network,3
+instrument realization,3
+integrated,3
+feedback,3
+user profiles,3
+educational programs,3
+technical specifications,3
+metadata,3
+standards,3
+maintained and updated,3
+composers,3
+security measures,3
+decision-making,3
+non-technical users,3
+features,3
+documentation,3
+sources,3
+particular,3
+discrepancies,3
+details,3
+events,3
+event category,3
+preferred,3
+time,3
+decision-making processes,3
+lifecycle stages,3
+recommended,3
+temporal aspects,3
+developers,3
+sparql queries,3
+weather conditions,3
+genres,3
+subclasses,3
+locations,3
+environmental impact,3
+stakeholders,3
+reused,3
+main,2
+how many,2
+measures,2
+invented,2
+where,2
+who,2
+performance,2
+transducer,2
+efficient querying,2
+reasoning,2
+frequency range,2
+vibration intensity,2
+ethical considerations,2
+late-onset hearing loss,2
+drum kit training,2
+technical mappings,2
+interoperability features,2
+modeling,2
+linked,2
+integrating,2
+style,2
+visualize,2
+structure,2
+compatibility,2
+modeled,2
+characteristics,2
+supported,2
+categorized,2
+identify,2
+notable,2
+new,2
+users,2
+queried,2
+reliability,2
+prefer,2
+chemical composition,2
+personalized,2
+attributes,2
+attribute values,2
+triggers,2
+regulations,2
+extended,2
+user-friendly,2
+insights,2
+exchanged,2
+guidelines,2
+showtimes,2
+systems,2
+standards and best practices,2
+tasks,2
+contextual information,2
+individual,2
+smart home systems,2
+ensure,2
+requirements,2
+alerts,2
+personal preferences,2
+link,2
+snow,2
+directors,2
+sunny,2
+"linked to ""rain""",2
+windy,2
+not linked,2
+queries,2
+health,2
+data standards,2
+specific materials,2
+environmental impacts,2
+sustainability metrics,2
+optimized,2
+scalability features,2
+description,2
+types,2
+constraints,2
+recycling,2
+waste manager,2
+lifecycle stage,2
+economic benefits,2
+reuse,2
+target audience,2
+films,2
+specific participant,2
+week,2
+1 (renovated),1
+places,1
+coming from?,1
+disposition,1
+point in time,1
+level of confidence,1
+similarities,1
+measure,1
+similarity measure,1
+perform,1
+performer,1
+why,1
+nature,1
+celebration,1
+festival,1
+private event,1
+religious,1
+secular,1
+paid,1
+attendees,1
+happened to be there,1
+travel,1
+reach,1
+place,1
+invited,1
+accidental,1
+relation,1
+power relation,1
+patreon,1
+located,1
+urban,1
+periurban,1
+poliorganic,1
+foundry,1
+material,1
+weight,1
+extension,1
+gender inclusivity,1
+musicians,1
+working at the same time,1
+patrons,1
+enhanced,1
+physical realization,1
+parts of,1
+subject,1
+credibility,1
+goal,1
+type,1
+context of production,1
+context of usage,1
+cross-referenced,1
+1 (biography),1
+geographical location,1
+historical period,1
+geographical region,1
+visualized,1
+most,1
+mapped geographically,1
+significant,1
+efficiently,1
+interoperability standards,1
+metrics,1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""types"" (implied through listing different devices)
+- ""haptic"" (appears multiple times)
+- ""devices"" (haptic bracelets",1
+"electronic drum kit)
+- ""available"" (appears multiple times: ""offered",1
+""" ""available"")
+- ""live",1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""functionalities"" (implied through descriptions of what devices do)
+- ""haptic"" (appears multiple times)
+- ""devices"" (haptic bracelets",1
+"electronic drum kit)
+- ""music"" (concert",1
+bass part,1
+"drums)
+-",1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""user preferences"" → preferences implied through anna's interest in bass player",1
+"ben's interest in drums
+- ""specific instruments"" → ""bass",1
+""" ""drums"" explicitly mentioned
+- ""represented"" → not a domain-specific word requiring presence
+- ""ontology"" → while not explicitly stated",1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""components"" (implied through discussion of parts)
+- ""musical performance"" (explicitly: ""concert",1
+""" ""performance"")
+- ""instruments"" (explicitly: ""bass player",1
+""" ""drums",1
+""" ""drum kit"")
+- ""roles"" (explicitly: ""bass part",1
+""" ""drums played by",1
+"""",1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""users"" (anna",1
+ben,1
+"caroline)
+- ""interact"" (use",1
+opted for,1
+swap feeds,1
+grab hand,1
+"put on wrist)
+- ""haptic"" (haptic bracelets",1
+haptic transcription,1
+haptic feed,1
+"haptic devices)
+- """,1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""venue"" - appears multiple times (e.g.",1
+"""the stables music venue"")
+- ""offerings"" - implied by ""offering a live automatic haptic transcription"" and ""available""
+- ""available"" - explicitly stated multiple times
+- ""hearing-impaired"" -",1
+"0
+
+all key content words from the cq appear in the scenario:
+- ""workshops"" → appears in ""summer workshop""
+- ""educational"" → implied by ""workshop"" context",1
+"and ""learning"" concepts are present
+- ""opportunities"" → implied by ""workshop being run""
+- ""music"" → appears multiple times
+- ""haptic"" → appears multiple",1
+captured,1
+guided,1
+interaction scenarios,1
+sharing user experiences,1
+scalability considerations,1
+accommodating new devices,1
+performance requirements,1
+compatible,1
+congenital,1
+mapped,1
+technical relationships,1
+target audiences,1
+equipment requirements,1
+relationships between events,1
+compatibility features,1
+anonymizing user data,1
+modeling user profiles,1
+event-specific configurations,1
+facilitating,1
+drum transcription bracelet,1
+compatibility with music ontology,1
+haptic technology ontology,1
+scalability requirements,1
+congenital hearing loss,1
+educational activities,1
+compatibility with audio feeds,1
+user roles,1
+social interactions,1
+facilitating event accessibility,1
+event configurations,1
+throughout history,1
+contextually,1
+semantically annotated,1
+sonic characteristics,1
+existing music databases and ontologies,1
+data exchange formats,1
+17th century,1
+18th century,1
+historical events,1
+19th century,1
+amsterdam,1
+rotterdam,1
+baroque period,1
+social factors,1
+northern and southern regions,1
+introduction of new materials,1
+key trends,1
+20th century,1
+most significant,1
+renaissance,1
+major,1
+cultural heritage ontologies,1
+limited technical expertise,1
+"i cannot complete this task as requested. the cq provided is not an actual competency question but rather a meta-comment stating that ""the actual list of 100 cqs would be generated by systematically addressing all entities",1
+"and use cases outlined in the ontology requirements...""
+
+this is not a concrete cq to analyze against the scenario. to properly annotate superfl",1
+metadata details,1
+influenced or been influenced by,1
+corresponding,1
+historical contexts,1
+sparql,1
+temporal patterns,1
+influences,1
+most frequently occurring,1
+key factors,1
+integrated database,1
+repertoires that include both dutch folk tunes and pieces from other musical traditions,1
+comparative studies,1
+interactions,1
+correlate,1
+specific period,1
+geographical locations,1
+complex query criteria,1
+data integrity,1
+access control,1
+demographic information,1
+formally recognized,1
+cultural significance,1
+recognized,1
+educational uses,1
+visualization tools,1
+interact with,1
+reasoning over large datasets,1
+formalization,1
+medical practices,1
+intersection,1
+medical practitioners,1
+access restrictions,1
+visualizing,1
+multilingual capabilities,1
+latin,1
+accurately,1
+database structures,1
+documentation and tutorials,1
+versions,1
+active,1
+practices,1
+compared to,1
+reinterpretations,1
+feature,1
+classified,1
+existing,1
+ontologies,1
+assist,1
+understanding,1
+utilizing,1
+effectively,1
+efficient,1
+querying,1
+retrieval,1
+i notice that no specific cq (competency question) has been provided in your prompt. you've included the scenario and instructions,1
+"but the actual cq text that i should analyze is missing.
+
+could you please provide the specific cq you'd like me to annotate for superfluous elements?",1
+tuning,1
+specific source,1
+different sources,1
+historical context,1
+changes over time,1
+assess,1
+annotations,1
+changed over time,1
+documented,1
+resolved,1
+highlighted,1
+structural events,1
+contexts,1
+relevant,1
+retrieved,1
+common,1
+found,1
+find,1
+project,1
+organ restoration projects,1
+key indicators,1
+organ components,1
+i appreciate your message,1
+but i notice that you haven't provided an actual cq (competency question) to annotate. your message contains the scenario and instructions,1
+"but the cq itself is missing or marked as a placeholder.
+
+please provide the specific cq you'd like me to annotate",1
+"and i'll identify any superfluous elements following the rules:
+
+1. check",1
+cvn:s,1
+used in,1
+key components,1
+composition,1
+time period,1
+most suitable event,1
+propose,1
+calendar,1
+hold,1
+indoor location,1
+sensor data,1
+typically associated,1
+likely,1
+system run,1
+system action,1
+live,1
+morning routine,1
+preferred movie categories,1
+certain situation,1
+preference,1
+favorite,1
+previously,1
+certain event,1
+now,1
+decision,1
+specific event,1
+default value,1
+user,1
+location's,1
+specific responsibilities,1
+end time,1
+hosting,1
+bookings,1
+structured,1
+devices,1
+device,1
+functionality,1
+user's context,1
+represented,1
+accommodate changes,1
+extensions or refinements,1
+resources,1
+materials,1
+dependencies,1
+product or material,1
+sustainability practices,1
+potential bottlenecks or inefficiencies,1
+compliance with relevant standards and best practices,1
+key metrics,1
+suppliers,1
+outputs,1
+regulatory requirements,1
+mitigation strategies,1
+usage,1
+optimized for efficiency,1
+efficiency,1
+interoperable,1
+hierarchical structure,1
+supplier,1
+manufacturing process,1
+regulatory standards,1
+compliance,1
+quality control measures,1
+tensile strength,1
+density,1
+supply chain transparency,1
+role,1
+necessary,1
+related to each other,1
+steps,1
+assigned,1
+potential scenarios,1
+outcomes,1
+shared vocabulary,1
+decision-making pathways,1
+product lifecycle management,1
+sustainability implications,1
+comply,1
+semantic web technologies,1
+sustainable practices,1
+software developers,1
+system integrators,1
+favorite movie genres,1
+watched in the past,1
+user's location,1
+weather,1
+local cinemas,1
+local cinema,1
+rating,1
+current date,1
+external weather data sources,1
+top-rated,1
+user data,1
+large number of users,1
+integration,1
+classifications,1
+querying and data retrieval,1
+sustainable production process,1
+definitions,1
+levels,1
+hierarchically structured,1
+gaps,1
+training programs,1
+human resources,1
+knowledge-sharing opportunities,1
+interoperability with existing hr and training systems,1
+activities related to personal hygiene,1
+objects,1
+commonly associated,1
+toothpaste,1
+influence activity recognition,1
+typical frequency,1
+reminders,1
+environmental conditions,1
+multiple personal hygiene activities simultaneously,1
+encouraging healthy hygiene habits,1
+potential interactions,1
+bathroom appliances,1
+additional personal hygiene activities,1
+health monitoring systems,1
+real-time activity recognition and reasoning,1
+key elements,1
+ontology's usability,1
+researchers,1
+scalable,1
+humidity level,1
+wind speed,1
+smart home devices,1
+customized,1
+celsius or fahrenheit,1
+different languages,1
+stored and retrieved,1
+protocols,1
+accommodate additional weather data types,1
+ensured,1
+communication between different smart home devices,1
+parameters,1
+modeled in the ontology,1
+specific locations,1
+time periods,1
+units,1
+alert thresholds,1
+occursat property,1
+during property,1
+units of measurement,1
+display format (text,1
+icons),1
+external ontologies,1
+retrieve current weather data,1
+user-defined alert thresholds,1
+consistency,1
+ontology's data modeling,1
+uv index,1
+preferredunit,1
+districts or landmarks,1
+currently,1
+current weather conditions,1
+optimal times,1
+weather forecasts,1
+generate movie recommendations,1
+patterns,1
+integrate with external weather databases,1
+external movie databases,1
+support reasoning,1
+future weather forecasts,1
+adding,1
+data,1
+updated with new data and requirements,1
+classes,1
+the dark knight,1
+linked to,1
+rain,1
+hierarchical relationships,1
+weatherconditions,1
+data properties,1
+object properties,1
+connect a user to their preferred genres,1
+released after 2010,1
+movies,1
+drama,1
+comedy,1
+not linked to any weather condition,1
+after 2015,1
+filmed,1
+humid,1
+"not in the ""action"" genre",1
+2020,1
+cold,1
+user preference,1
+any,1
+horror,1
+thunderstorm,1
+"""hot"" weather",1
+sci-fi,1
+released after 2018,1
+foggy,1
+"not in the ""drama"" genre",1
+adventure,1
+release year before 2000,1
+cloudy weather,1
+"linked to both ""rain"" and ""action"" genre",1
+link a user to their preferred movie genres,1
+user preference for weather conditions,1
+thriller,1
+released after 2020,1
+fantasy,1
+release year between 2010 and 2020,1
+misty,1
+represented in the ontology,1
+routines,1
+health and smart home ontologies,1
+routine detection and analysis,1
+update the ontology,1
+new activities or temporal definitions,1
+health applications,1
+use,1
+track,1
+provide feedback,1
+research,1
+behavioral studies,1
+other ontologies,1
+smart home,1
+domains,1
+factors,1
+different,1
+specific material,1
+technologies,1
+recycling standards,1
+new materials,1
+existing recycling framework,1
+security considerations,1
+proprietary recycling data,1
+common challenges,1
+waste management companies,1
+manufacturers,1
+key performance indicators,1
+automated decision-making,1
+data integration,1
+framework,1
+attributes and characteristics,1
+standardized terminology,1
+international conservation bodies,1
+title,1
+date,1
+specific ticket type,1
+given movie event,1
+seating arrangements,1
+categories,1
+payment methods,1
+query,1
+vip ticket types,1
+processing,1
+transaction,1
+personalized movie event recommendations,1
+end-users,1
+automated reasoning,1
+list of competency questions (cqs),1
+rules govern,1
+adapt,1
+benchmarked against industry standards,1
+tools,1
+applications,1
+humidity levels,1
+specific parameter,1
+given day,1
+historical,1
+trends,1
+additional weather data sources,1
+accuracy level,1
+user-friendly interface,1
+key actors,1
+responsibilities,1
+sourced,1
+used,1
+recycled,1
+disposed of,1
+principles,1
+resource efficiency,1
+recycling and reuse,1
+waste reduction,1
+sustainability assessment criteria,1
+compliance requirements,1
+sustainability,1
+construction industry,1
+specific role,1
+environmental properties,1
+technical properties,1
+steel melting,1
+value metrics,1
+specific flow,1
+sustainability standards,1
+integrate with existing ontologies,1
+carbon footprint,1
+specific region,1
+managing waste,1
+production,1
+recycle,1
+required,1
+energy consumption,1
+compliance with circular economy standards,1
+material reuse coordinator,1
+economic,1
+environmental benefits,1
+recycler,1
+recycling process,1
+key properties,1
+alignment with industry standards,1
+recycled material,1
+alignment with bim and ifc standards,1
+facilities,1
+address,1
+age restrictions,1
+purchased,1
+pricing options,1
+tickets available,1
+other films,1
+screening times,1
+cinemas,1
+this week,1
+long,1
+contact details,1
+upcoming screening events,1
+cast members,1
+competency questions,1
+specific date,1
+specific day,1
+scheduling conflicts,1
+two events,1
+meetings,1
+particular event,1
+start,1
+end times,1
+specific location,1
+free afternoons,1
+specific month,1
+personal scheduling information,1
+external calendar system,1
+specific time period,1
+new event,1
+conflicts,1
+total amount,1
+upcoming,1
+event types,1
+sensors,1
+user location,1
+integrate with external weather data providers,1
+customize,1
+user commands,1
+real-time processing,1
+protect user data,1
+secure communication between devices,1
+accessibility,1
+privacy considerations,1
+integrated with other smart home systems and devices,1
