@@ -166,4 +166,4 @@ IAA was assessed using Cohen's κ and Gwet's AC1 across four annotator pairs cov
 
 ## License
 
-<!-- Add license -->
+Apache 2.0
