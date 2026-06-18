@@ -1,6 +1,4 @@
-# CQeval
-
-Code and data for the paper **"Evaluating Competency Questions: Measuring Perspectivisation from Requirement Sources"**.
+# Evaluating Competency Questions: Measuring Perspectivisation from Requirement Sources
 
 This repository contains the full pipeline for generating, annotating, and analysing competency questions (CQs) produced by two LLM-based ontology engineering assistants — OntoChat and NeOn-GPT — across four ontology projects (Polifonia, IntelligentBathrooms, WHOW, CVN). The analysis focuses on two dimensions: **source additions** (concepts in a CQ not grounded in the source scenario) and **appraisal terms** (normative or non-neutral language).
 
