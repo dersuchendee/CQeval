@@ -1,8 +1,8 @@
 # CQeval
 
-Code and data for the paper **"Evaluating Bias in LLM-Generated Ontology Competency Questions"**.
+Code and data for the paper **"Evaluating Competency Questions: Measuring Perspectivisation from Requirement Sources"**.
 
-This repository contains the full pipeline for generating, annotating, and analysing competency questions (CQs) produced by two LLM-based ontology engineering assistants — OntoChat and NeOn-GPT — across four ontology projects (Polifonia, IntelligentBathrooms, WHOW, CVN). The analysis focuses on two bias dimensions: **superfluous elements** (concepts in a CQ not grounded in the source scenario) and **evaluative terms** (normative or non-neutral language).
+This repository contains the full pipeline for generating, annotating, and analysing competency questions (CQs) produced by two LLM-based ontology engineering assistants — OntoChat and NeOn-GPT — across four ontology projects (Polifonia, IntelligentBathrooms, WHOW, CVN). The analysis focuses on two dimensions: **source additions** (concepts in a CQ not grounded in the source scenario) and **appraisal terms** (normative or non-neutral language).
 
 ---
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 Set your API key (required for all `annotate_*.py` and `generate_*.py` scripts):
 
 ```bash
-export paikey=your-key-here
+export apikey=your-key-here
 ```
 
 All scripts use paths relative to the repository root via `BASE_DIR = pathlib.Path(__file__).parent`. No manual path configuration is needed as long as you run the scripts from within the cloned repository.
@@ -90,7 +90,7 @@ python fix_scenarios.py
 
 ### 3. LLM Annotation
 
-Annotate each CQ for superfluous elements, evaluative terms, SE justification, and SE type:
+Annotate each CQ for source additions, appraisal terms, SE justification, and SE type:
 
 ```bash
 python annotate_superfluous.py
