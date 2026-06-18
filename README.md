@@ -164,6 +164,17 @@ IAA was assessed using Cohen's κ and Gwet's AC1 across four annotator pairs cov
 
 ---
 
+## Examples of justified and unjustified source additions
+
+| User Story | Competency Question | Source Addition | Justified? | Annotator rationale |
+|------------|--------------------|---------------|------------|---------------------|
+| There are several actors involved in a construction use case/circular value flow, each holding some roles in a certain material flow. | What are the key processes involved in the recycling of a material (e.g., "concrete")? | recycling | Yes | reasonably inferred from circular value flow |
+| Sage, a water resource manager with a background in environmental science, is tasked with overseeing the sustainability and conservation efforts of water basins in her region. Her responsibilities include maintaining water quality and usage standards, planning conservation efforts, identifying water bodies belonging to basins, classifying water bodies, and producing reports based on water body classifications. | How can data from various sources be integrated and shared using the ontology? | ontology | No | not supported by the user story |
+| Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | specific movie | Yes | film found tonight |
+| Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | director | No | not supported by the user story |
+
+---
+
 ## License
 
 Apache 2.0
