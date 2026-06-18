@@ -160,11 +160,13 @@ IAA was assessed using Cohen's κ and Gwet's AC1 across four annotator pairs cov
 
 ## Guidelines
 
-<!-- Guidelines for annotators can be added here -->
+The annotation guidelines are available in: [`GUIDELINES.md`](GUIDELINES.md)
 
 ---
 
 ## Examples of justified and unjustified source additions
+
+These examples are intended to illustrate the operational distinction between *justified* and *unjustified* additions used during annotation. They should not be interpreted as a quality assessment of the competency questions themselves.
 
 | User Story | Competency Question | Source Addition | Justified? | Annotator rationale |
 |------------|--------------------|---------------|------------|---------------------|
@@ -172,6 +174,14 @@ IAA was assessed using Cohen's κ and Gwet's AC1 across four annotator pairs cov
 | There are several actors involved in a construction use case/circular value flow, each holding some roles in a certain material flow. | How does the ontology model the alignment with industry standards (e.g., EN 15804)? | industry standards | No |  not supported by the user story  |
 | Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | specific movie | Yes | film found tonight |
 | Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | director | No | not supported by the user story |
+
+### Interpretation
+
+A source addition is considered **justified** when the added element can be directly traced back to the user story through a synonym, paraphrase, or a close inference supported by the text.
+
+A source addition is considered **unjustified** when no textual evidence in the user story supports the introduced element.
+
+Importantly, unjustified additions do **not** necessarily indicate low-quality competency questions. Domain experts and knowledge engineers often introduce additional concepts based on domain knowledge, modelling experience, or implicit assumptions. For this reason, source additions are treated as **deviations from the user story** rather than direct indicators of CQ quality.
 
 ---
 
