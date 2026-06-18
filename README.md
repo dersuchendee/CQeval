@@ -144,7 +144,7 @@ Each file contains one CQ per row with columns:
 
 ### Human annotation files (`data/human_annotations/`)
 
-Annotation subsets distributed to human annotators for inter-annotator agreement (IAA) assessment. Each file covers one annotation subset and one annotator. Columns: `dataset`, `group`, `scenario`, `cq`, `source_deviation`, `framing_bias`, `notes`.
+Annotation subsets distributed to human annotators for inter-annotator agreement (IAA) assessment. Each file covers one annotation subset and one annotator. Columns: `dataset`, `scenario`, `cq`, `source_deviation`, `framing`, `notes`.
 
 ### Results (`results/`)
 
