@@ -4,47 +4,6 @@ This repository contains the full pipeline for generating, annotating, and analy
 
 ---
 
-## Repository structure
-
-```
-CQeval/
-├── data/                                  # Input data
-│   ├── polifonia_ontochat_cqs.csv         # OntoChat CQs for Polifonia (human-annotated)
-│   ├── polifonia_neongpt_cqs.csv          # NeOn-GPT CQs for Polifonia
-│   ├── ontochat_goldstandard_cqs.csv      # Gold-standard CQs (OntoChat)
-│   ├── benchmarkdataset_polifonia.csv     # Polifonia scenario benchmark
-│   ├── benchmarkdataset_ib_whow_cvn.csv   # IB / WHOW / CVN scenario benchmark
-│   ├── annotated_*.csv                    # LLM-annotated CQ files (SE + eval terms)
-│   └── human_annotations/                 # Human IAA annotation files
-│       ├── annotations_subset1_annotator{1-5}.csv/.xlsx
-│       ├── annotations_subset2_annotator{1-2}.xlsx
-│       └── annotations_subset4_annotator1.csv
-├── results/                               # Computed outputs (CSVs)
-├── generate_polifonia_cqs.py              # Generate CQs for Polifonia with OntoChat
-├── generate_neongpt_cqs.py                # Generate CQs for Polifonia with NeOn-GPT
-├── generate_ontochat_ib_whow_cvn.py       # Generate CQs for IB/WHOW/CVN with OntoChat
-├── generate_neongpt_ib_whow_cvn.py        # Generate CQs for IB/WHOW/CVN with NeOn-GPT
-├── disaggregate_ontochat.py               # Parse and flatten OntoChat CQ output
-├── disaggregate_neongpt.py                # Parse and flatten NeOn-GPT CQ output
-├── fix_scenarios.py                       # Clean and normalise scenario text
-├── annotate_superfluous.py                # LLM annotation: superfluous elements (IB/WHOW/CVN)
-├── annotate_polifonia_superfluous.py      # LLM annotation: superfluous elements (Polifonia)
-├── annotate_eval_terms.py                 # LLM annotation: evaluative terms (IB/WHOW/CVN)
-├── annotate_polifonia_eval_terms.py       # LLM annotation: evaluative terms (Polifonia)
-├── annotate_se_justified.py               # LLM annotation: SE justification
-├── annotate_se_types.py                   # LLM annotation: SE deviation type classification
-├── bias_analysis.py                       # Main descriptive analysis and figures
-├── analyze_superfluous_deviation.py       # IQR-based deviation analysis for SE
-├── analyze_eval_terms_deviation.py        # IQR-based deviation analysis for eval terms
-├── build_annotation_subsets.py            # Build human annotation subsets (random)
-├── build_flag_annotation_subsets.py       # Build human annotation subsets (flagged cases)
-├── build_eval_subset.py                   # Build LLM annotation evaluation subset
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Setup
 
 ```bash
@@ -88,7 +47,7 @@ python fix_scenarios.py
 
 ### 3. LLM Annotation
 
-Annotate each CQ for source additions, appraisal terms, SE justification, and SE type:
+Annotate each CQ for superfluous elements, evaluative terms, SE justification, and SE type:
 
 ```bash
 python annotate_superfluous.py
