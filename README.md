@@ -135,8 +135,7 @@ These examples are intended to illustrate the operational distinction between *j
 ### Interpretation
 
 Source additions are identified by their absence as explicit expressions in
-the User Story. Therefore, synonyms, paraphrases, and immediate specifications
-may still be annotated as source additions and subsequently marked as
+the User Story. Therefore, synonyms, paraphrases, and coreferential reformulation of content explicitly stated in the User Story may still be annotated as source additions and subsequently marked as
 justified.
 
 A source addition is considered **justified** when it is a synonym or paraphrase
