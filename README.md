@@ -129,14 +129,23 @@ These examples are intended to illustrate the operational distinction between *j
 |------------|--------------------|---------------|------------|---------------------|
 | There are several actors involved in a construction use case/circular value flow, each holding some roles in a certain material flow. | What are the key processes involved in the recycling of a material (e.g., "concrete")? | recycling | Yes | reasonably inferred from circular value flow |
 | There are several actors involved in a construction use case/circular value flow, each holding some roles in a certain material flow. | How does the ontology model the alignment with industry standards (e.g., EN 15804)? | industry standards | No |  not supported by the user story  |
-| Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | specific movie | Yes | film found tonight |
+| Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | specific movie | Yes | immediate specification of the film identified by the system (film found tonight) |
 | Based on the fact that I have the evening off, that it is going to rain, and that I like to go to the movies on my free-time, the system finds a film that I could see tonight. | Who is the director of a specific movie? | director | No | not supported by the user story |
 
 ### Interpretation
 
-A source addition is considered **justified** when the added element can be directly traced back to the user story through a synonym, paraphrase, or a close inference supported by the text.
+Source additions are identified by their absence as explicit expressions in
+the User Story. Therefore, synonyms, paraphrases, and immediate specifications
+may still be annotated as source additions and subsequently marked as
+justified.
 
-A source addition is considered **unjustified** when no textual evidence in the user story supports the introduced element.
+A source addition is considered **justified** when it is a synonym or paraphrase
+of an expression in the User Story, or an immediate specification directly
+licensed by the scenario text. The assessment relies on the User Story alone
+and does not use external domain knowledge.
+
+A source addition is considered **unjustified** when the User Story provides no
+textual support for it.
 
 Importantly, unjustified additions do **not** necessarily indicate low-quality competency questions. Domain experts and knowledge engineers often introduce additional concepts based on domain knowledge, modelling experience, or implicit assumptions. For this reason, source additions are treated as **deviations from the user story** rather than direct indicators of CQ quality.
 
